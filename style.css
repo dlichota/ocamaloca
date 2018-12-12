@@ -1351,6 +1351,7 @@ figure img {
     display: inline-block;
     margin-bottom: 10px;
     text-align: center;
+    max-height: 150px;
 }
 #branding .site-title {
     font-size: 18px;
