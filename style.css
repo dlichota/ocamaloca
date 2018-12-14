@@ -95,9 +95,6 @@ abbr[title] {
 .thumbnail {
     padding: 0;
 }
-* {
-    box-sizing: border-box;
-}
 img {
     vertical-align: middle;
 }
