@@ -95,10 +95,6 @@ abbr[title] {
 .thumbnail {
     padding: 0;
 }
-.carousel-inner>.item>img,
-.carousel-inner>.item>a>img {
-    width: 100%;
-}
 .col-center {
     margin: 0 auto;
     float: none !important;
