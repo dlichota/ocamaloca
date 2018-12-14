@@ -1412,14 +1412,14 @@ figure img {
 .site-header {
     background: white;
     text-align: center;
-    height: 125px;
+    height: 225px;
     position: relative;
     z-index: 99;
 }
 #branding {
     position: absolute;
     display: inline-block;
-    width: 400px;
+    width: 300px;
     left: 0;
     right: 0;
     margin: auto;
