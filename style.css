@@ -110,7 +110,7 @@ abbr[title] {
 .carousel .item {
     text-align: center;
     overflow: hidden;
-    height: 160px;
+    height: 260px;
 }
 .carousel .item .img-box {
     background: #fff;
