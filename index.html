@@ -115,27 +115,21 @@
 
                     <link href='https://www.planyo.com/libs/fullcalendar-scheduler/lib/fullcalendar.min.css' rel='stylesheet' />
                     <link href='https://www.planyo.com/libs/fullcalendar-scheduler/scheduler.min.css' rel='stylesheet' />
-                    <div id='cpcal_planyonet' class='cp_calendar cp_units_30 '></div>
-                    <a title='Calendar powered by Planyo' alt='Calendar powered by Planyo' href='http://www.planyo.net' target='_blank' class='cp_pb'>calendar </a>
-                    <div id='cp_fetch_cpcal_planyonet' class='cp_fetching' style='position:absolute;left:200px;top:10px;display:none;z-index:999;'>
-                        <img src='https://www.planyo.com/images/hourglass.gif' /></div>
+                    <div id='cpcal_planyonet' class='cp_calendar cp_units_30 '></div><a title='Calendar powered by Planyo' alt='Calendar powered by Planyo' href='http://www.planyo.net' target='_blank' class='cp_pb'>calendar </a>
+                    <div id='cp_fetch_cpcal_planyonet' class='cp_fetching' style='position:absolute;left:200px;top:10px;display:none;z-index:999;'><img src='https://www.planyo.com/images/hourglass.gif' /></div>
                     <script>
                         if (!document.cp_instances) document.cp_instances = new Array();
                         document.cp_instances.push({
-                            'all_views': 'custWeek',
-                            'def_view': 'custWeek',
+                            'all_views': 'custMonth',
+                            'def_view': 'custMonth',
                             'time_unit': 1440,
                             'resources': [{
                                 "id": "Airbnb",
                                 "title": "Airbnb",
                                 "granulation": "1440",
                                 "click_url": null
-                            }, {
-                                "id": "Booking",
-                                "title": "Booking",
-                                "granulation": "1440",
-                                "click_url": null
                             }],
+                            'resource_id': "Airbnb",
                             'jsonp_url': {
                                 url: "https://www.planyo.net/fetch-calendar.php?eh=a3cb9743cf436f185359d3da11adbe9a027f227b&ih=4a81c93743d943c5b108391638e8f70886b96143&callback=?",
                                 cache: false
