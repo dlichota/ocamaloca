@@ -97,7 +97,7 @@
                 <div class="container">
                     <header>
                         <h2 class="section-title">Oca Maloca Availability</h2>
-                        <script id='vr_MTM0MS0tNWM2YWYzYmVjMjQxMA=='>
+                        <!--<script id='vr_MTM0MS0tNWM2YWYzYmVjMjQxMA=='>
                             window.options = {
                                 api_key: 'MTM0MS0tNWM2YWYzYmVjMjQxMA==',
                                 height: '1000px',
@@ -109,7 +109,57 @@
                             s.async = true;
                             document.body.appendChild(s);
 
+                        </script>-->
+                        <link href='https://www.planyo.com/libs/fullcalendar-scheduler/lib/fullcalendar.min.css' rel='stylesheet' />
+                        <link href='https://www.planyo.com/libs/fullcalendar-scheduler/scheduler.min.css' rel='stylesheet' />
+                        <div id='cpcal_planyonet' class='cp_calendar cp_units_30 '></div><a title='Calendar powered by Planyo' alt='Calendar powered by Planyo' href='http://www.planyo.net' target='_blank' class='cp_pb'>calendar </a>
+                        <div id='cp_fetch_cpcal_planyonet' class='cp_fetching' style='position:absolute;left:200px;top:10px;display:none;z-index:999;'><img src='https://www.planyo.com/images/hourglass.gif' /></div>
+                        <script>
+                            if (!document.cp_instances) document.cp_instances = new Array();
+                            document.cp_instances.push({
+                                'all_views': 'custWeek',
+                                'def_view': 'custWeek',
+                                'time_unit': 1440,
+                                'resources': [{
+                                    "id": "Airbnb",
+                                    "title": "Airbnb",
+                                    "granulation": "1440",
+                                    "click_url": null
+                                }, {
+                                    "id": "Booking",
+                                    "title": "Booking",
+                                    "granulation": "1440",
+                                    "click_url": null
+                                }],
+                                'jsonp_url': {
+                                    url: "https://www.planyo.net/fetch-calendar.php?eh=a3cb9743cf436f185359d3da11adbe9a027f227b&ih=4a81c93743d943c5b108391638e8f70886b96143&callback=?",
+                                    cache: false
+                                },
+                                'timezone': 'site',
+                                'tz_offset': 0,
+                                'min_hour': '8:00:00',
+                                'max_hour': '20:00:00',
+                                'open_frame': "_top",
+                                'element_id': 'cpcal_planyonet',
+                                'fetching_id': 'cp_fetch_cpcal_planyonet',
+                                'lng': 'en'
+                            });
+                            document.cp_time_format = 'HH:mm';
+                            document.cp_title_format = 'dddd, MMMM Do, YYYY';
+                            document.cp_title_format_short = 'ddd, MMM Do';
+                            document.cp_s_day = "day";
+                            document.cp_s_days = "days";
+                            document.cp_s_vert_day = "vertical day";
+                            document.cp_s_month = "month";
+                            document.cp_s_week = "week";
+                            document.cp_s_weeks = "weeks";
+                            document.cp_s_agenda = "agenda";
+
                         </script>
+                        <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+                        <script src='https://www.planyo.com/libs/planyonet-fc.js'></script>
+                        <script src='https://www.planyo.com/embed-schedule.js'></script>
+                        <link rel='stylesheet' href='https://www.planyo.com/planyonet/planyo.net.css' type='text/css' />
                     </header>
                 </div>
                 <!--/Calendar-->
