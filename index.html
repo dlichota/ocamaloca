@@ -206,7 +206,7 @@
                         <p id="caption"></p>
                     </div>
 
-                    <div class="row">
+                    <!--<div class="row">
                         <div class="column">
                             <img class="demo cursor" src="images/ocamaloca-0.png" style="width:75%" onclick="currentSlide(1)" alt="Oca Maloca Front Door">
                         </div>
@@ -256,25 +256,25 @@
                             <img class="demo cursor" src="images/ocamaloca-15.png" style="width:75%" onclick="currentSlide(16)" alt="Oca Maloca Kitchen">
                         </div>
                     </div>
+                </div>-->
+                    <!--/Slider-->
                 </div>
-                <!--/Slider-->
-            </div>
-            <!-- .fullwidth-block -->
+                <!-- .fullwidth-block -->
 
-            <div class="cta">
-                <header>
-                    <h2 class="section-title">Oca Maloca Apartment</h2>
-                    <p class="section-desc"> Beautiful and comfortable one-bedroom apartment near Nanny Cay overlooking Sir Francis Drake's Channel with a view of many islands and the Caribbean Sea.</p>
-                </header>
+                <div class="cta">
+                    <header>
+                        <h2 class="section-title">Oca Maloca Apartment</h2>
+                        <p class="section-desc"> Beautiful and comfortable one-bedroom apartment near Nanny Cay overlooking Sir Francis Drake's Channel with a view of many islands and the Caribbean Sea.</p>
+                    </header>
 
-                <p><a href="tel:12845471767" class="tel">+1 (284) 547-1767</a></p>
-                <p><a href="mailto:chris@ocamaloca.com" class="email">chris@ocamaloca.com</a></p>
+                    <p><a href="tel:12845471767" class="tel">+1 (284) 547-1767</a></p>
+                    <p><a href="mailto:chris@ocamaloca.com" class="email">chris@ocamaloca.com</a></p>
 
-            </div>
+                </div>
 
-            <!-- .container -->
+                <!-- .container -->
 
-            <!-- .fullwidth-block -->
+                <!-- .fullwidth-block -->
         </main>
         <!-- .main-content -->
 
@@ -314,48 +314,48 @@
         </footer>
         <!-- .site-footer -->
 
-    </div>
-    <!-- #site-content -->
-    <script>
-        var slideIndex = 1;
-        showSlides(slideIndex);
+        </div>
+        <!-- #site-content -->
+        <script>
+            var slideIndex = 1;
+            showSlides(slideIndex);
 
-        function plusSlides(n) {
-            showSlides(slideIndex += n);
-        }
+            function plusSlides(n) {
+                showSlides(slideIndex += n);
+            }
 
-        function currentSlide(n) {
-            showSlides(slideIndex = n);
-        }
+            function currentSlide(n) {
+                showSlides(slideIndex = n);
+            }
 
-        function showSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("mySlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
-            if (n > slides.length) {
-                slideIndex = 1
+            function showSlides(n) {
+                var i;
+                var slides = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("demo");
+                var captionText = document.getElementById("caption");
+                if (n > slides.length) {
+                    slideIndex = 1
+                }
+                if (n < 1) {
+                    slideIndex = slides.length
+                }
+                for (i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                }
+                slides[slideIndex - 1].style.display = "block";
+                dots[slideIndex - 1].className += " active";
+                captionText.innerHTML = dots[slideIndex - 1].alt;
             }
-            if (n < 1) {
-                slideIndex = slides.length
-            }
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[slideIndex - 1].style.display = "block";
-            dots[slideIndex - 1].className += " active";
-            captionText.innerHTML = dots[slideIndex - 1].alt;
-        }
 
-    </script>
-    <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/jquery-3.3.1.slim.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/app.js"></script>
-    <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+        </script>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/jquery-3.3.1.slim.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/app.js"></script>
+        <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 </body>
 
 </html>
