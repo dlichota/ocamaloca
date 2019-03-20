@@ -176,6 +176,7 @@ img {
 .book {
     position: absolute;
     top: 525px;
+    align-content: center;
 }
 
 /* Six columns side by side */
