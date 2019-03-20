@@ -174,8 +174,8 @@ img {
     clear: both;
 }
 .book {
-    align-content: center;
-    padding: 0 0 0 0;
+    position: absolute;
+    top: 10px;
 }
 
 /* Six columns side by side */
