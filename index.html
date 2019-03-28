@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="field">
                                         <label for="arrival">Arrival Date:</label>
-                                        <input type="date" name="arrival">
+                                        <input type="date" name="arrival" id="datepicker">
                                     </div>
                                     <!-- .field -->
                                     <input type="submit" value="Contact Us">
@@ -336,6 +336,12 @@
             dots[slideIndex - 1].className += " active";
             captionText.innerHTML = dots[slideIndex - 1].alt;
         }
+
+    </script>
+    <script>
+        $(function() {
+            $("#datepicker").datepicker();
+        });
 
     </script>
     <script src="js/jquery-1.11.1.min.js"></script>
