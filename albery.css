@@ -1,6 +1,6 @@
 .gallery_container {
-    margin: 150px auto;
-    max-width: 1280px;
+    margin: auto;
+    max-width: 100%;
 }
 h1 {
     text-align: center;
@@ -22,7 +22,7 @@ h1 {
 .albery-item {
     position: relative;
     float: left;
-    width: 400px;
+    width: 100%;
     /*cursor: zoom-in;*/
 }
 .albery-item img {
