@@ -112,7 +112,7 @@ img {
     padding: 0px;
 }
 #iframe {
-    margin: 0 auto;
+    padding-left: 100%;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
