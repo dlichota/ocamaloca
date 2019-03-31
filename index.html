@@ -203,25 +203,26 @@
                             <img class="demo cursor" src="images/ocamaloca-15.png" style="width:85%" onclick="currentSlide(16)" alt="Oca Maloca Kitchen">
                         </div>-->-->
                 </div>
+            </div>
 
-                <!--/Slider-->
+            <!--/Slider-->
 
-                <!-- .fullwidth-block -->
+            <!-- .fullwidth-block -->
 
-                <div class="cta">
-                    <header>
-                        <h2 class="section-title">Oca Maloca Apartment</h2>
-                        <p class="section-desc"> Beautiful and comfortable one-bedroom airconditioned apartment near Nanny Cay overlooking Sir Francis Drake Channel and Caribbean Sea with a view of Peter and Norman islands and even St Croix, USVI on a clear day.</p>
-                    </header>
+            <div class="cta">
+                <header>
+                    <h2 class="section-title">Oca Maloca Apartment</h2>
+                    <p class="section-desc"> Beautiful and comfortable one-bedroom airconditioned apartment near Nanny Cay overlooking Sir Francis Drake Channel and Caribbean Sea with a view of Peter and Norman islands and even St Croix, USVI on a clear day.</p>
+                </header>
 
-                    <p><a href="tel:12845471767" class="tel">Tel: +1 (284) 547-1767</a></p>
+                <p><a href="tel:12845471767" class="tel">Tel: +1 (284) 547-1767</a></p>
 
 
-                </div>
+            </div>
 
-                <!-- .container -->
+            <!-- .container -->
 
-                <!-- .fullwidth-block -->
+            <!-- .fullwidth-block -->
         </main>
         <!-- .main-content -->
 
@@ -260,65 +261,65 @@
         </footer>
         <!-- .site-footer -->
 
-        </div>
-        <!-- #site-content -->
-        <script>
-            var slideIndex = 1;
-            showSlides(slideIndex);
+    </div>
+    <!-- #site-content -->
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
 
-            function plusSlides(n) {
-                showSlides(slideIndex += n);
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {
+                slideIndex = 1
             }
-
-            function currentSlide(n) {
-                showSlides(slideIndex = n);
+            if (n < 1) {
+                slideIndex = slides.length
             }
-
-            function showSlides(n) {
-                var i;
-                var slides = document.getElementsByClassName("mySlides");
-                var dots = document.getElementsByClassName("demo");
-                var captionText = document.getElementById("caption");
-                if (n > slides.length) {
-                    slideIndex = 1
-                }
-                if (n < 1) {
-                    slideIndex = slides.length
-                }
-                for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                }
-                slides[slideIndex - 1].style.display = "block";
-                dots[slideIndex - 1].className += " active";
-                captionText.innerHTML = dots[slideIndex - 1].alt;
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
             }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+            captionText.innerHTML = dots[slideIndex - 1].alt;
+        }
 
-        </script>
-        <script>
-            $(function() {
-                $("#datepicker").datepicker();
-            });
+    </script>
+    <script>
+        $(function() {
+            $("#datepicker").datepicker();
+        });
 
-        </script>
-        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-        <script src="js/jquery-1.11.1.min.js"></script>
-        <script src="js/jquery-3.3.1.slim.min.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/app.js"></script>
-        <script>
-            $(function() {
-                $('.fadein img:gt(0)').hide();
-                setInterval(function() {
-                    $('.fadein :first-child').fadeOut().next('img').fadeIn().end().appendTo('.fadein');
-                }, 3000);
-            });
+    </script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        $(function() {
+            $('.fadein img:gt(0)').hide();
+            setInterval(function() {
+                $('.fadein :first-child').fadeOut().next('img').fadeIn().end().appendTo('.fadein');
+            }, 3000);
+        });
 
-        </script>
-        <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+    </script>
+    <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 </body>
 
 </html>
