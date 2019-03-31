@@ -1,3 +1,10 @@
+.gallery_container {
+    margin: 150px auto;
+    max-width: 960px;
+}
+h1 {
+    text-align: center;
+}
 .albery-container,
 .pagination-container {
     position: relative;
