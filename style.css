@@ -117,6 +117,41 @@ img {
 .container {
     position: relative;
 }
+.fadein {
+    position: relative;
+    height: 332px;
+    width: 500px;
+}
+.fadein img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.fadelinks,
+.faderandom {
+    position: relative;
+    height: 332px;
+    width: 500px;
+}
+.fadelinks > *,
+.faderandom > * {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+}
+.multipleslides {
+    position: relative;
+    height: 332px;
+    width: 500px;
+    float: left;
+}
+.multipleslides > * {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+}
 
 /* Hide the images by default */
 
