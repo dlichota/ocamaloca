@@ -475,12 +475,15 @@ figure img {
     width: 100%;
     /**zoom: 1;*/
 }
-.container:after {
+
+/* .container:after {
     content: " ";
     clear: both;
     display: block;
     overflow: hidden;
-    height: 0;
+    height: 0;*/
+
+
 }
 @media (min-width: 768px) {
     .container {
@@ -1465,7 +1468,6 @@ figure img {
 }
 
 /* Header Styles */
-
 .site-header {
     background: white;
     text-align: center;
@@ -1921,7 +1923,6 @@ figure img {
 }
 
 /* Footer Styles */
-
 .site-footer {
     background-color: #2f2e3c;
     padding: 100px 0 50px;
