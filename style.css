@@ -470,8 +470,8 @@ figure img {
 .container {
     margin-right: auto;
     margin-left: auto;
-    /* padding-left: 15px;
-    padding-right: 15px; */
+    padding-left: 15px;
+    padding-right: 15px;
     *zoom: 1;
 }
 .container:after {
@@ -488,7 +488,7 @@ figure img {
 }
 @media (min-width: 992px) {
     .container {
-        width: 970px;
+        width: 100%;
     }
 }
 @media (min-width: 1200px) {
