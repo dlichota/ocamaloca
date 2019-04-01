@@ -1528,7 +1528,7 @@ figure img {
     background: #ceefa5;
     opacity: 0.5;
     position: relative;
-    z-index: 1;
+    z-index: -1;
     color: #5a595e;
 }
 .homepage .hero {
