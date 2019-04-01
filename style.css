@@ -1526,7 +1526,7 @@ figure img {
 }
 .hero-pale {
     background: #ceefa5;
-    opacity: 0.75;
+    opacity: 0.5;
     position: relative;
     z-index: 1;
     color: #5a595e;
