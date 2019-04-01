@@ -1562,7 +1562,7 @@ figure img {
     font-size: 2rem;
     margin: 0 0 20px;
     color: #5a595e;
-    line-height: 1;
+    line-height: 1.5;
     font-weight: 400;
 }
 @media screen and (max-width: 990px) {
