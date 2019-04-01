@@ -472,6 +472,7 @@ figure img {
     margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;*/
+    width: 100%;
     *zoom: 1;
 }
 .container:after {
