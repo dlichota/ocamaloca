@@ -1526,9 +1526,15 @@ figure img {
 }
 .hero-pale {
     background: rgba(206, 239, 165, 0.5);
+    position: relative;
+    z-index: 1;
+    color: #5a595e;
 }
 .hero-paler {
     background: rgba(206, 239, 165, 0.25);
+    position: relative;
+    z-index: 1;
+    color: #5a595e;
 }
 .homepage .hero {
     padding: 70px 0;
