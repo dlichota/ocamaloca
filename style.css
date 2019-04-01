@@ -1527,6 +1527,9 @@ figure img {
 .hero-pale {
     background: rgba(206, 239, 165, 0.5);
 }
+.hero-pale {
+    background: rgba(206, 239, 165, 0.25);
+}
 .homepage .hero {
     padding: 70px 0;
 }
