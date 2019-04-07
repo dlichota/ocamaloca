@@ -1636,7 +1636,7 @@ figure img {
 .fullwidth-block header .section-title:after {
     content: " ";
     width: 70px;
-    height: 5px;
+    height: 50px;
     background: #dedee2;
     position: absolute;
     bottom: 0;
