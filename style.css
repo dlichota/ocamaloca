@@ -1532,6 +1532,7 @@ figure img {
     color: #5a595e;
 }
 .hero-paler {
+    width: 100%;
     background: rgba(206, 239, 165, 0.25);
     position: relative;
     z-index: 1;
