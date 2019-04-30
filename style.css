@@ -1525,6 +1525,7 @@ figure img {
     color: #5a595e;
 }
 .hero-pale {
+    width: 100%;
     background: rgba(206, 239, 165, 0.5);
     position: relative;
     z-index: 1;
@@ -1615,7 +1616,7 @@ figure img {
     text-align: center;
 }
 .fullwidth-block {
-    padding: 50px 0;
+    padding: 100px 0;
 }
 .fullwidth-block header {
     text-align: center;
