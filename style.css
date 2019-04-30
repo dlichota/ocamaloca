@@ -112,6 +112,7 @@ img {
     padding: 0px;
 }
 iframe {
+    width: 100%;
     margin: auto;
 }
 
