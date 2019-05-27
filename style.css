@@ -140,14 +140,6 @@ iframe {
 
 /*Calendar */
 
-.fc-content {
-    white-space: normal !important;
-    padding: 7px
-}
-
-.fc-day-grid-event {
-    margin-bottom: 9px;
-}
 
 /* Position the image container (needed to position the left and right arrows) */
 
