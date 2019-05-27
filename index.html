@@ -316,7 +316,7 @@
     <script>
         $(document).ready(function() {
 
-            var eventDataSourceURL = 'https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ljc0gbh4378h47dvmgocer6svk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FPort_of_Spain" style="border-width:0" width="80%" height="300" frameborder="0" scrolling="no"';
+            var eventDataSourceURL = 'ljc0gbh4378h47dvmgocer6svk@group.calendar.google.com?key=AIzaSyBsLlTD_idBho3gKHLUleRX6XeCkjTnuO0';
 
             var calendarupdateInterval = 5000; // RE-FETCH INTERVAL FOR GOOGLE CALENDAR DATA
             var calendarAddedtoPage = false; // FLAG TO DETECT IF CALENDAR HAS PREVIOUSLY BEEN ADDED OR NEEDS TO BE ADDED
@@ -376,7 +376,7 @@
                             left: "title",
                             center: "",
                             //right: "today,prevYear,prev,next,nextYear" //Possible Values: month, basicWeek, basicDay, agendaWeek, agendaDay, today prevYear,prev,next,nextYear
-                            right: 'agendaDay,agendaWeek,month,prev,next'
+                            right: 'month,prev,next'
                         },
                         buttonIcons: {
                             prev: "left-single-arrow",
