@@ -67,27 +67,19 @@
                                 <p>The owners have lived and worked on Tortola for many years and are very familar with the best beaches, bars, restaurants and shopping. Contact us for any questions you may have about your trip - we are sure to be able to help.</p>
                                 <!-- .request-form -->
                                 <form name="contact" method="POST" data-netlify="true">
-                                    <div class="field">
-                                        <label for="name">Your name:</label>
-                                        <input type="text" required>
-                                    </div>
-                                    <!-- .field -->
-                                    <div class="field">
-                                        <label for="email">Email:</label>
-                                        <input type="text" required>
-                                    </div>
-                                    <!-- .field-column -->
-                                    <div class="field">
-                                        <label for="message">Message:</label>
-                                        <textarea name="message" rows="5" required></textarea>
-                                    </div>
-                                    <div class="field">
-                                        <label for="arrival">Arrival Date:</label>
-                                        <input type="date" name="arrival" id="datepicker">
-                                    </div>
-                                    <!-- .field -->
-                                    <input type="submit" value="Contact Us">
-                                </form>
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
                             </div>
                             <!-- .request-form -->
                         </div>
