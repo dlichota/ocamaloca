@@ -595,7 +595,7 @@ figure img {
 
 .row {
     margin-left: -15px;
-    margin-right: -15px;
+    margin-right: auto;
     *zoom: 1;
 }
 
@@ -1896,7 +1896,7 @@ figure img {
 }
 
 .hero .hero-half-background {
-    position: relative;
+    position: absolute;
     width: 50%;
     left: 0;
     top: 0;
