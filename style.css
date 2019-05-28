@@ -1897,7 +1897,7 @@ figure img {
 
 .hero .hero-half-background {
     position: absolute;
-
+    max-width: 500px;
     left: 0;
     top: 0;
     bottom: 0;
