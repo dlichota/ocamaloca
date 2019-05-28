@@ -1896,7 +1896,7 @@ figure img {
 }
 
 .hero .hero-half-background {
-    position: absolute;
+    position: relative;
     width: 50%;
     left: 0;
     top: 0;
@@ -1908,11 +1908,6 @@ figure img {
 .hero-half-background {
     background-image: url("images/ocabedroomcrop-min.png");
 }
-
-@media screen and (max-width: 1200px) {
-    .hero .hero-half-background {
-        width: 50%;
-    }
 
 @media screen and (max-width: 990px) {
     .hero .hero-half-background {
