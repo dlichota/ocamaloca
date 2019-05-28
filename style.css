@@ -1922,7 +1922,8 @@ figure img {
     border-radius: 5px;
     color: #7b7a82;
     position: relative;
-    top: 290px;
+    top: 60%px;
+    bottom:auto;
 }
 
 @media screen and (max-width: 990px) {
