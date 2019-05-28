@@ -1928,7 +1928,7 @@ figure img {
 
 @media screen and (max-width: 990px) {
     .hero .hero-content {
-        margin-top: 30px;
+        margin-top: 70%;
         margin-bottom: 50px;
         top: 0;
     }
