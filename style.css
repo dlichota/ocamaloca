@@ -1922,13 +1922,13 @@ figure img {
     border-radius: 5px;
     color: #7b7a82;
     position: relative;
-    top: 60%px;
+    top: 60%;
     bottom:auto;
 }
 
 @media screen and (max-width: 990px) {
     .hero .hero-content {
-        margin-top: 70%;
+        margin-top: 70px;
         margin-bottom: 50px;
         top: 0;
     }
