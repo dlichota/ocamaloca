@@ -1947,7 +1947,7 @@ figure img {
 @media screen and (max-width: 990px) {
     .hero .request-form {
         position: relative;
-        background: #2f2e3c;
+        background: #f3fbe8;
         padding: 30px;
         border-radius: 5px;
     }
