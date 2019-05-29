@@ -1961,6 +1961,9 @@ figure img {
     color: #5a595e;
     font-weight: 300;
 }
+h2 {
+    font-weight: bolder;
+}
 
 .hero .request-form input[type="submit"] {
     margin-top: 30px;
