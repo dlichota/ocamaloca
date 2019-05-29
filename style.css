@@ -1959,7 +1959,8 @@ figure img {
     padding: 50px;
     margin: 0 0 20px;
     color: #5a595e;
-    font-weight: 300;
+    line-height: 1;
+    font-weight: bolder;
 }
 h2 {
     font-weight: bolder;
