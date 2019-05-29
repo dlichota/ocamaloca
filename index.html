@@ -45,57 +45,55 @@
         <!-- .site-header -->
 
         <main class="main-content">
-
-            <div class="hero container-fluid">
-                <div class="hero-half-background">
-
-                    <div class="row">
-                        <div class="col-md-5">
-                            <div class="hero-content">
-                                <h2 class="hero-title">Villa Oca Maloca
-                                    <br />Vacation Apartment
-                                    <br />Near Nanny Cay Marina
-                                    <br />Tortola, British Virgin Islands</h2>
-                                <p>Oca Maloca vacation rental apartment on Tortola, British Virgin Islands is 5 minutes from Nanny Cay Marina and overlooks Sir Francis Drake Channel and the Caribbean Sea, with a view of Norman Island and Peter Island and other islands of the BVI and USVI. Oca Maloca is an airconditioned, one bedroom, one bathroom apartment and is well appointed with a fully equipped gourmet kitchen. There is a sofa bed for a third person to sleep and a large wrap-around deck from which to sip cocktails and enjoy the view.
-                                </p>
-
+            <div class="row">
+                <div class="hero container-fluid">
+                    <div class="hero-half-background">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="hero-content">
+                                    <h2 class="hero-title">Villa Oca Maloca
+                                        <br />Vacation Apartment
+                                        <br />Near Nanny Cay Marina
+                                        <br />Tortola, British Virgin Islands</h2>
+                                    <p>Oca Maloca vacation rental apartment on Tortola, British Virgin Islands is 5 minutes from Nanny Cay Marina and overlooks Sir Francis Drake Channel and the Caribbean Sea, with a view of Norman Island and Peter Island and other islands of the BVI and USVI. Oca Maloca is an airconditioned, one bedroom, one bathroom apartment and is well appointed with a fully equipped gourmet kitchen. There is a sofa bed for a third person to sleep and a large wrap-around deck from which to sip cocktails and enjoy the view.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                        <!-- .col-md-5 -->
-                        <div class="col-md-5 col-md-offset-2">
-                            <div class="request-form">
-                                <h2>Contact Oca Maloca</h2>
-                                <p>The owners have lived and worked on Tortola for many years and are very familar with the best beaches, bars, restaurants and shopping. Contact us for any questions you may have about your trip - we are sure to be able to help.</p>
+                            <!-- .col-md-5 -->
+                            <div class="col-md-5 col-md-offset-2">
+                                <div class="request-form">
+                                    <h2>Contact Oca Maloca</h2>
+                                    <p>The owners have lived and worked on Tortola for many years and are very familar with the best beaches, bars, restaurants and shopping. Contact us for any questions you may have about your trip - we are sure to be able to help.</p>
+                                    <!-- .request-form -->
+                                    <form name="contact" method="POST" data-netlify="true">
+                                        <p>
+                                            <label>Your Name: <input type="text" name="name" required /></label>
+                                        </p>
+                                        <p>
+                                            <label>Your Email: <input type="email" name="email" required /></label>
+                                        </p>
+                                        <p>
+                                            <label>Message: <textarea name="message" rows="5" required></textarea></label>
+                                        </p>
+                                        <p><label for="arrival">Arrival Date:</label>
+                                            <input type="date" name="arrival" id="datepicker"></p>
+                                        <p>
+                                            <input type="submit" value="Contact Us">
+                                        </p>
+                                        <p></p>
+                                    </form>
+                                </div>
                                 <!-- .request-form -->
-                                <form name="contact" method="POST" data-netlify="true">
-                                    <p>
-                                        <label>Your Name: <input type="text" name="name" required /></label>
-                                    </p>
-                                    <p>
-                                        <label>Your Email: <input type="email" name="email" required /></label>
-                                    </p>
-                                    <p>
-                                        <label>Message: <textarea name="message" rows="5" required></textarea></label>
-                                    </p>
-                                    <p><label for="arrival">Arrival Date:</label>
-                                        <input type="date" name="arrival" id="datepicker"></p>
-                                    <p>
-                                        <input type="submit" value="Contact Us">
-                                    </p>
-                                    <p></p>
-                                </form>
                             </div>
-                            <!-- .request-form -->
+                            <!-- .col-md-5 -->
                         </div>
-                        <!-- .col-md-5 -->
+                        <!-- .row -->
                     </div>
-                    <!-- .row -->
+                    <!-- .container -->
                 </div>
-                <!-- .container -->
             </div>
-            <!-- .hero -->
-            <!-- .fullwidth-block -->
             <!--Calendar-->
+            <div class="row">
             <div class="container hero-pale">
                 <!--<div class="row">-->
 
@@ -103,8 +101,9 @@
                 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FPort_of_Spain&amp;src=bGpjMGdiaDQzNzhoNDdkdm1nb2NlcjZzdmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showTitle=0&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
             </div>
-            <!--/Calendar-->
+            </div>
             <!--Slider -->
+            <div class="row">
             <div class="container hero-paler">
 
                 <h2 class="text-center">Oca Maloca Apartment Photo Gallery</h2>
@@ -226,14 +225,17 @@
                     </div>
                 </div>
             </div>
+            </div>
             <!--Map-->
+            <div class="row">
             <div class="container hero-pale">
                 <!--<div class="row">-->
                 <h2 class="text-center">Maps of BVI Bars & Restaurants</h2>
                 <iframe src="https://www.google.com/maps/d/embed?mid=164NtIpKLGSjLW3iUfXsluPYzLGo5LYQR&hl=en" width="640" height="480"></iframe>
             </div>
-
+            </div>
             <!-- Description -->
+            <div class="row">
             <div class="container hero-paler">
                 <h2 class="text-center">Villa Oca Maloca Apartment</h2>
                 <p class="text-center">Beautiful and comfortable one-bedroom airconditioned apartment near Nanny Cay
@@ -242,7 +244,7 @@
                 <p></p>
 
             </div>
-
+            </div>
         </main>
         <!-- .main-content -->
 
