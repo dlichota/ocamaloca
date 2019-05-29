@@ -1897,6 +1897,7 @@ figure img {
 
 .hero .hero-half-background {
     position: absolute;
+    max-width: 585px;
     width: 50%;
     left: 0;
     top: 0;
@@ -1923,7 +1924,7 @@ figure img {
     color: #7b7a82;
     position: relative;
     top: 300px;
-    bottom:auto;
+    bottom: auto;
 }
 
 @media screen and (max-width: 990px) {
@@ -1962,6 +1963,7 @@ figure img {
     line-height: 1;
     font-weight: bolder;
 }
+
 h2 {
     font-weight: bolder;
 }
@@ -1990,7 +1992,7 @@ h2 {
 }
 
 .fullwidth-block {
-   /* padding: 100px 0;*/
+    /* padding: 100px 0;*/
 }
 
 .fullwidth-block header {
