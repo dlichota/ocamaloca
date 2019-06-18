@@ -1,0 +1,70 @@
+<span class="dashicons sp-options" style="float: right;cursor:pointer;font-size: 1.2em;"></span>
+<form name="folder" method="get">
+    {FILE "messages.html"}
+    <div>
+        <h2>Select the folder that you want to optimize.</h2>
+    </div>
+    <!--
+        <div class="form-element">
+            <label>Website folder: </label>
+        </div>
+    -->
+    <div class="form-element">
+        <input class="folder" id="folder" type="text" name="folder" placeholder="Website folder">
+    </div>
+    <div class="form-element">
+        <a class="btn btn-confirm btn-select" id="select-folder">Browse ...</a>
+    </div>
+    <div class="form-element">
+        <input type="submit" class="btn btn-optimize" value="Optimize now">
+    </div>
+    <input type="hidden" name="base_url" id="base_url" value=""/>
+    <div>
+        <h3 class="success" id="info_message" style="display:none;">
+            <span></span>
+            <input type="button" class="btn btn-small btn-cancel" id="change_base_url" value="Change" style="margin-left: 20px;" onclick="$('#detected_base_url').val($('#base_url').val());$('#confirm_message').css('display', 'block');">
+        </h3>
+    </div>
+
+    {FILE "options.html"}
+    <div class="form-element">
+        <input type="submit" class="btn btn-optimize" value="Optimize now">
+    </div>
+</form>
+<hr/>
+<div class="text-column">
+    <h2>How does it work?</h2>
+    <p>The images are sent to our servers for optimization, retrieved when they are ready and they replace the original version. While the folder is optimized, you need to keep this page open.
+    A progress bar will be displayed and the optimized images will be shown in a compare pane below. For each folder, a .shortpixel file will be created, storing optimization metadata. You need to make sure that the folder has proper rights for the file creation/modification.</p>
+</div>
+<div class="text-column">
+    <h2>What if I close the page?</h2>
+    <p>The optimization process for that folder will stop. But, if you reload the same page, or start the process over for that folder, the optimization process will continue where it left. The already optimized images will not be processed.</p>
+</div>
+<div class="text-column">
+    <h2>Where can I find more info?</h2>
+    <p>You can <a href="https://shortpixel.com/login" target="_blank">login</a> to your ShortPixel account and check your usage statistics as well  as a detailed <a href="https://shortpixel.com/optimization-report" target="_blank">optimization report</a>.
+       The default settings of the web optimizer are set to Lossy compression, remove EXIF, CMYK to RGB conversion, no WebP generation. You can find more about these settings on our <a href="https://blog.shortpixel.com/" target="_blank">blog</a>.</p>
+</div>
+<div id="folder-picker" class="sp-shade">
+    <div class="sp-popup">
+        <div class="sp-folder-picker-title">Select the images folder</div>
+        <div class="sp-folder-picker"></div>
+        <div class="sp-popup-buttons">
+            <input type="button" class="btn btn-small btn-confirm select-folder" value="Select">
+            <input type="button" class="btn btn-small btn-cancel select-folder-cancel" value="Cancel" style="margin-left: 30px;">
+        </div>
+    </div>
+</div>
+<div id="confirm_message" class="sp-shade">
+    <div class="sp-confirm-popup sp-popup">
+        <div class="sp-folder-picker-title">Detected base URL:</div>
+        <input type="text" id="detected_base_url" name="detected_base_url"  class="folder base-url" placeholder="Base URL of the folder">
+        <p>Using a base URL instead of uploading files via POST significantly speeds up the optimization process as the files are downloaded in parallel by our servers instead of being uploaded via a multi-part POST message.</p>
+        <p>Press Ignore if this is a local site (not accessible from Internet) or if the access is restricted in any manner.</p>
+        <div class="sp-popup-buttons">
+            <input type="button" id="btn_confirm" class="btn btn-small btn-confirm select-folder-cancel" value="Confirm" style="margin-right: 30px;">
+            <input type="button"  id="btn_ignore" class="btn btn-small btn-cancel select-folder" value="Ignore">
+        </div>
+    </div>
+</div>

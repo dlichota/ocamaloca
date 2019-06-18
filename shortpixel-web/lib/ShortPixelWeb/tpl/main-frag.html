@@ -1,0 +1,56 @@
+<!-- BEGIN: main -->
+    <div class="box">
+        <div class="content">
+            <!-- BEGIN: key -->
+            {FILE "apikey.html"}
+            <!-- END: key -->
+            <!-- BEGIN: form -->
+            {FILE "form.html"}
+            <!-- END: form -->
+            <!-- BEGIN: progress -->
+            {FILE "progress.html"}
+            <!-- END: progress -->
+            <!-- BEGIN: success -->
+            {FILE "success.html"}
+            <!-- END: success -->
+        </div>
+    </div>
+    <div class="links">
+        Version {web_version} | <a href="https://shortpixel.com/contact" target="_blank">Support</a> | <a href="https://shortpixel.com/about-and-team" target="_blank">About</a>
+    </div>
+
+    <script>
+        //load the javascript dependencies dynamically if they do not exist
+        var headTag = document.getElementsByTagName("head")[0];
+        var loadPageJS = function() {
+            var jqTag = document.createElement('script');
+            jqTag.type = 'text/javascript';
+            jqTag.src = 'js/sp-file-tree.js';
+            headTag.appendChild(jqTag);
+            jqTag = document.createElement('script');
+            jqTag.type = 'text/javascript';
+            jqTag.src = 'js/sp-web.js';
+            headTag.appendChild(jqTag);
+            <!-- BEGIN: optimize_js -->
+            ShortPixel.optimize('{folder}');
+            <!-- END: optimize_js -->
+        }
+        if(typeof jQuery === 'undefined') {
+            var jqTag = document.createElement('script');
+            jqTag.type = 'text/javascript';
+            jqTag.src = 'js/jquery-3.1.1.min.js';
+            jqTag.onload = loadPageJS;
+            headTag.appendChild(jqTag);
+        } else {
+            loadPageJS();
+        }
+        if(typeof jQuery().knob === 'undefined') {
+            var jqTag = document.createElement('script');
+            jqTag.type = 'text/javascript';
+            jqTag.src = 'js/jquery.knob.js';
+            headTag.appendChild(jqTag);
+        }
+    </script>
+    </body>
+</html>
+<!-- END: main -->

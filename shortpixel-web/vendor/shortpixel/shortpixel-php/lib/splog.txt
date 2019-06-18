@@ -1,0 +1,735 @@
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/63c7b71cb3a83f66f381df20c7adda84.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/398/63c7b71cb3a83f66f381df20c7adda84.png)
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/02f5262b82113d21d8e9b9bbe2e9b530.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/306/02f5262b82113d21d8e9b9bbe2e9b530.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/63c7b71cb3a83f66f381df20c7adda84.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/02f5262b82113d21d8e9b9bbe2e9b530.png -> /tmp/shortpixel-phpQRenmn/_00019.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/330/445cf8ad42af980cb840c079a0b24c84.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png -> /tmp/shortpixel-phpQRenmn/_00019.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png -> /tmp/shortpixel-phpQRenmn/_00019.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/212/4575fa871feeeacd45bf1cf3be226fd7.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/445cf8ad42af980cb840c079a0b24c84.png -> /tmp/shortpixel-phpQRenmn/_00019.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4575fa871feeeacd45bf1cf3be226fd7.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+-102 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/373/3824934d79beaea906c43d64e5437a74.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3824934d79beaea906c43d64e5437a74.png -> /tmp/shortpixel-phpQRenmn/_00003.png
+
+
+URL Statuses: 
+HTTP/1.1 100 Continue
+
+HTTP/1.1 500 Internal Server Error
+Server: nginx/1.10.3
+Date: Tue, 28 Mar 2017 18:43:19 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Set-Cookie: ShortPixel=PagePeeker_NS51; path=/
+
+
+
+File mappings: 
+
+
+URL Statuses: 
+HTTP/1.1 100 Continue
+
+HTTP/1.1 500 Internal Server Error
+Server: nginx/1.10.3
+Date: Tue, 28 Mar 2017 18:43:21 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Set-Cookie: ShortPixel=PagePeeker_NS51; path=/
+
+
+
+File mappings: 
+
+
+URL Statuses: 
+HTTP/1.1 100 Continue
+
+HTTP/1.1 500 Internal Server Error
+Server: nginx/1.10.3
+Date: Tue, 28 Mar 2017 18:43:29 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Set-Cookie: ShortPixel=PagePeeker_NS51; path=/
+
+
+
+File mappings: 
+
+
+URL Statuses: 
+HTTP/1.1 100 Continue
+
+HTTP/1.1 500 Internal Server Error
+Server: nginx/1.10.3
+Date: Tue, 28 Mar 2017 18:44:00 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Set-Cookie: ShortPixel=PagePeeker_NS51; path=/
+
+
+
+File mappings: 
+
+
+URL Statuses: 
+HTTP/1.1 100 Continue
+
+HTTP/1.1 500 Internal Server Error
+Server: nginx/1.10.3
+Date: Tue, 28 Mar 2017 18:44:06 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Set-Cookie: ShortPixel=PagePeeker_NS51; path=/
+
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/6c95a5aadae6b29599a6ea943bcb2607.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/116/6c95a5aadae6b29599a6ea943bcb2607.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/6c95a5aadae6b29599a6ea943bcb2607.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d40cefabfbeae0ded3fe26a13d508cdd.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/148/d40cefabfbeae0ded3fe26a13d508cdd.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c37231c54445a20564262fb5662692af.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/182/c37231c54445a20564262fb5662692af.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d40cefabfbeae0ded3fe26a13d508cdd.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c37231c54445a20564262fb5662692af.jpg -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/cc.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2841deca04971baa6284a16a299e896c.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/191/2841deca04971baa6284a16a299e896c.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2c618792745779b5623aba8725d43557.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/423/2c618792745779b5623aba8725d43557.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8108673ba2d116e758afe5ab903ddf4b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/175/8108673ba2d116e758afe5ab903ddf4b.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/967a9a19f222d9119215c88728928f67.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/261/967a9a19f222d9119215c88728928f67.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/587d8f7a725062521e5bf176ed3e201b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/921/587d8f7a725062521e5bf176ed3e201b.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2841deca04971baa6284a16a299e896c.jpg -> /tmp/shortpixel-phpJ8nz32/final referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2c618792745779b5623aba8725d43557.jpg -> /tmp/shortpixel-phpJ8nz32/plansa 2 referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8108673ba2d116e758afe5ab903ddf4b.jpg -> /tmp/shortpixel-phpJ8nz32/plansa 3 referinta-08.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/967a9a19f222d9119215c88728928f67.jpg -> /tmp/shortpixel-phpJ8nz32/plansa 4 referinta-09.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/587d8f7a725062521e5bf176ed3e201b.jpg -> /tmp/shortpixel-phpJ8nz32/plansa 5 referinta-01.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/040a19f71753cf3ef9a68c236892c7ba.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/371/040a19f71753cf3ef9a68c236892c7ba.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/94fa590987e0a9307dd1fd3d89c410da.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/146/94fa590987e0a9307dd1fd3d89c410da.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/40fd03abba539831bb559d11d100d103.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/260/40fd03abba539831bb559d11d100d103.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/467d189bd15a1653fc66b34df5c89055.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/135/467d189bd15a1653fc66b34df5c89055.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8cd9fcf85aace0071b79ad4b50366f80.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/695/8cd9fcf85aace0071b79ad4b50366f80.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/550e965247bfe829e27a3235645768a5.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/310/550e965247bfe829e27a3235645768a5.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/72d93fd30d273f8aa6043d8007c8f627.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/226/72d93fd30d273f8aa6043d8007c8f627.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b157743240706ab65a62848734002e48.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/893/b157743240706ab65a62848734002e48.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4398ba680ed4ed3d761fc0d8659ae40e.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/123/4398ba680ed4ed3d761fc0d8659ae40e.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/93edd887aefea499030da356faaff58f.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/257/93edd887aefea499030da356faaff58f.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/040a19f71753cf3ef9a68c236892c7ba.jpg -> /tmp/shortpixel-phpJ8nz32/18okjfqnzlujejpg.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/94fa590987e0a9307dd1fd3d89c410da.jpg -> /tmp/shortpixel-phpJ8nz32/2235_021_k01_i4c_ref01_-480x425.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/40fd03abba539831bb559d11d100d103.jpg -> /tmp/shortpixel-phpJ8nz32/696712874740327086.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/467d189bd15a1653fc66b34df5c89055.jpg -> /tmp/shortpixel-phpJ8nz32/Channel_digital_image_CMYK_color.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8cd9fcf85aace0071b79ad4b50366f80.jpg -> /tmp/shortpixel-phpJ8nz32/Elliott_5-original-lossless.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/550e965247bfe829e27a3235645768a5.jpg -> /tmp/shortpixel-phpJ8nz32/Exeter-Uni-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/72d93fd30d273f8aa6043d8007c8f627.jpg -> /tmp/shortpixel-phpJ8nz32/POLYCELL-HI-RES-ALL-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b157743240706ab65a62848734002e48.jpg -> /tmp/shortpixel-phpJ8nz32/POLYCELL-HI-RES-ALL.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4398ba680ed4ed3d761fc0d8659ae40e.jpg -> /tmp/shortpixel-phpJ8nz32/bug-upload-optimizer.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/93edd887aefea499030da356faaff58f.jpg -> /tmp/shortpixel-phpJ8nz32/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d0561452e4f116d93ac6561c349c1214.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/146/d0561452e4f116d93ac6561c349c1214.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/abfbc6ae39374acd0212fd31b40cf689.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/229/abfbc6ae39374acd0212fd31b40cf689.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7d0f1b4ee5a78ef9b6d2d5e047a4dc3b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/404/7d0f1b4ee5a78ef9b6d2d5e047a4dc3b.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cf65fd1de69a6bdaa2d638965a7b070a.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/371/cf65fd1de69a6bdaa2d638965a7b070a.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8d3f9179700b26e51bdd48116ffa0c0d.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/139/8d3f9179700b26e51bdd48116ffa0c0d.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/25898a23ee0484ae50a42d8b7e7be419.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/318/25898a23ee0484ae50a42d8b7e7be419.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d7316c331fef01e017d7b27c63817cd3.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/135/d7316c331fef01e017d7b27c63817cd3.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/e7ed17e48c6e396e560a2a6930693774.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/313/e7ed17e48c6e396e560a2a6930693774.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/db402641c64fcabca01b2ec3616599fa.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/386/db402641c64fcabca01b2ec3616599fa.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/de2969cf1cf8e301a2900008edf8f06c.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/338/de2969cf1cf8e301a2900008edf8f06c.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d0561452e4f116d93ac6561c349c1214.jpg -> /tmp/shortpixel-phpJ8nz32/cerbu.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/abfbc6ae39374acd0212fd31b40cf689.jpg -> /tmp/shortpixel-phpJ8nz32/eros.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7d0f1b4ee5a78ef9b6d2d5e047a4dc3b.jpg -> /tmp/shortpixel-phpJ8nz32/eros2-1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cf65fd1de69a6bdaa2d638965a7b070a.jpg -> /tmp/shortpixel-phpJ8nz32/eros3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8d3f9179700b26e51bdd48116ffa0c0d.jpg -> /tmp/shortpixel-phpJ8nz32/eros4.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/25898a23ee0484ae50a42d8b7e7be419.jpg -> /tmp/shortpixel-phpJ8nz32/mistretz.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d7316c331fef01e017d7b27c63817cd3.jpg -> /tmp/shortpixel-phpJ8nz32/multumesc1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/e7ed17e48c6e396e560a2a6930693774.jpg -> /tmp/shortpixel-phpJ8nz32/multumesc2.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/db402641c64fcabca01b2ec3616599fa.jpg -> /tmp/shortpixel-phpJ8nz32/multumesc3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/de2969cf1cf8e301a2900008edf8f06c.jpg -> /tmp/shortpixel-phpJ8nz32/multumesc4.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3def0a1b73ce0d1e76d9a09c8507fdcc.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/468/3def0a1b73ce0d1e76d9a09c8507fdcc.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/97aae104804da69359c8b607d38057fd.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/409/97aae104804da69359c8b607d38057fd.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/db3f475347042a6625c5ec7087bcb0c9.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/160/db3f475347042a6625c5ec7087bcb0c9.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4171651177289fb023451e1d148162b2.jpeg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/346/4171651177289fb023451e1d148162b2.jpeg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3def0a1b73ce0d1e76d9a09c8507fdcc.jpg -> /tmp/shortpixel-phpJ8nz32/multumesc6.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/97aae104804da69359c8b607d38057fd.jpg -> /tmp/shortpixel-phpJ8nz32/multverde1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/db3f475347042a6625c5ec7087bcb0c9.png -> /tmp/shortpixel-phpJ8nz32/multverde2.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4171651177289fb023451e1d148162b2.jpeg -> /tmp/shortpixel-phpJ8nz32/multverde3.jpeg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/92a11a2efea4629ef9a6e2cfbdc94a4f.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/505/92a11a2efea4629ef9a6e2cfbdc94a4f.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/92a11a2efea4629ef9a6e2cfbdc94a4f.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a7891e30dad22e1aadbfe2d848f40d2d.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/133/a7891e30dad22e1aadbfe2d848f40d2d.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4e16398be4e7909759b44f83f94b4254.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/178/4e16398be4e7909759b44f83f94b4254.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a7891e30dad22e1aadbfe2d848f40d2d.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4e16398be4e7909759b44f83f94b4254.jpg -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/cc.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/93efc7633dee04a66f24146a651efee4.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/342/93efc7633dee04a66f24146a651efee4.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/70fdc72d222bd23cdd523ea6bc77f2df.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/340/70fdc72d222bd23cdd523ea6bc77f2df.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c8cbd34f4ea086e587477bf5fb3cf58a.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/347/c8cbd34f4ea086e587477bf5fb3cf58a.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/844de3fedf145f8150f07a24a91f11c6.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/606/844de3fedf145f8150f07a24a91f11c6.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/fda9cdf3b11e185813d25b694d0f7adb.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/282/fda9cdf3b11e185813d25b694d0f7adb.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/93efc7633dee04a66f24146a651efee4.jpg -> /tmp/shortpixel-phpWLHEoV/final referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/70fdc72d222bd23cdd523ea6bc77f2df.jpg -> /tmp/shortpixel-phpWLHEoV/plansa 2 referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c8cbd34f4ea086e587477bf5fb3cf58a.jpg -> /tmp/shortpixel-phpWLHEoV/plansa 3 referinta-08.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/844de3fedf145f8150f07a24a91f11c6.jpg -> /tmp/shortpixel-phpWLHEoV/plansa 4 referinta-09.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/fda9cdf3b11e185813d25b694d0f7adb.jpg -> /tmp/shortpixel-phpWLHEoV/plansa 5 referinta-01.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/414759d329d70597702d5ba79acf25e7.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/418/414759d329d70597702d5ba79acf25e7.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b5d5386ab8c4df5b45e0d2b91d10d485.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/585/b5d5386ab8c4df5b45e0d2b91d10d485.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8ac6f6bc3a9c7b465d8ebebd957710b9.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/136/8ac6f6bc3a9c7b465d8ebebd957710b9.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d229be56ba699bced0b92258271b10f3.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/220/d229be56ba699bced0b92258271b10f3.jpg)
+1 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/319f771c947ee3a83757749ded580001.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/268/319f771c947ee3a83757749ded580001.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9db97b77b1a9bc8302494081d6c441cb.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/247/9db97b77b1a9bc8302494081d6c441cb.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5707c95d45f9b92a616b4b4079b87f5f.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/312/5707c95d45f9b92a616b4b4079b87f5f.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/be0a97d075096f230fed325523e5cfe1.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/241/be0a97d075096f230fed325523e5cfe1.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3416f100a6ac6affcb3aa842bb1c0dfc.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/707/3416f100a6ac6affcb3aa842bb1c0dfc.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/fb4e6dbd32a7bd6ca8c3c3e988cf9660.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/940/fb4e6dbd32a7bd6ca8c3c3e988cf9660.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/414759d329d70597702d5ba79acf25e7.jpg -> /tmp/shortpixel-phpWLHEoV/18okjfqnzlujejpg.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b5d5386ab8c4df5b45e0d2b91d10d485.jpg -> /tmp/shortpixel-phpWLHEoV/2235_021_k01_i4c_ref01_-480x425.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8ac6f6bc3a9c7b465d8ebebd957710b9.jpg -> /tmp/shortpixel-phpWLHEoV/696712874740327086.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d229be56ba699bced0b92258271b10f3.jpg -> /tmp/shortpixel-phpWLHEoV/Channel_digital_image_CMYK_color.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/319f771c947ee3a83757749ded580001.jpg -> /tmp/shortpixel-phpWLHEoV/Elliott_5-original-lossless.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9db97b77b1a9bc8302494081d6c441cb.jpg -> /tmp/shortpixel-phpWLHEoV/Exeter-Uni-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5707c95d45f9b92a616b4b4079b87f5f.jpg -> /tmp/shortpixel-phpWLHEoV/POLYCELL-HI-RES-ALL-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/be0a97d075096f230fed325523e5cfe1.jpg -> /tmp/shortpixel-phpWLHEoV/POLYCELL-HI-RES-ALL.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3416f100a6ac6affcb3aa842bb1c0dfc.jpg -> /tmp/shortpixel-phpWLHEoV/bug-upload-optimizer.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/fb4e6dbd32a7bd6ca8c3c3e988cf9660.jpg -> /tmp/shortpixel-phpWLHEoV/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/319f771c947ee3a83757749ded580001.jpg
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/319f771c947ee3a83757749ded580001.jpg -> /tmp/shortpixel-phpWLHEoV/Elliott_5-original-lossless.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/63ad2cb549062af83cecf2f570ff9ead.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/808/63ad2cb549062af83cecf2f570ff9ead.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/edd4c1463d0dd71a2b4f049d63f0f9fd.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/100/edd4c1463d0dd71a2b4f049d63f0f9fd.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/10ea8c3ed708ce0a9ffe99a3317bd014.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/323/10ea8c3ed708ce0a9ffe99a3317bd014.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4300eb01a1693a4903cc1828028d320c.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/331/4300eb01a1693a4903cc1828028d320c.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf9cdb963449cfb6aced872205b74ae2.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/594/bf9cdb963449cfb6aced872205b74ae2.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cc73f51571787510846731b564ea5b9f.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/271/cc73f51571787510846731b564ea5b9f.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/11771b661cc9efa3eb0d68ec9f0da28a.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/108/11771b661cc9efa3eb0d68ec9f0da28a.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/78a54d66a3e8be49e59fdd1e66b39790.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/367/78a54d66a3e8be49e59fdd1e66b39790.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a9f5c674ad37638ce6f758c9fa1bf2a9.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/263/a9f5c674ad37638ce6f758c9fa1bf2a9.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9d14216de4794885d73668fbe4cc295b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/615/9d14216de4794885d73668fbe4cc295b.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/63ad2cb549062af83cecf2f570ff9ead.jpg -> /tmp/shortpixel-phpWLHEoV/cerbu.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/edd4c1463d0dd71a2b4f049d63f0f9fd.jpg -> /tmp/shortpixel-phpWLHEoV/eros.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/10ea8c3ed708ce0a9ffe99a3317bd014.jpg -> /tmp/shortpixel-phpWLHEoV/eros2-1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/4300eb01a1693a4903cc1828028d320c.jpg -> /tmp/shortpixel-phpWLHEoV/eros3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf9cdb963449cfb6aced872205b74ae2.jpg -> /tmp/shortpixel-phpWLHEoV/eros4.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cc73f51571787510846731b564ea5b9f.jpg -> /tmp/shortpixel-phpWLHEoV/mistretz.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/11771b661cc9efa3eb0d68ec9f0da28a.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/78a54d66a3e8be49e59fdd1e66b39790.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc2.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a9f5c674ad37638ce6f758c9fa1bf2a9.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9d14216de4794885d73668fbe4cc295b.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc4.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/be248a1b80d70d11d566379c20a39407.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/382/be248a1b80d70d11d566379c20a39407.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0ab1c153d7bc3aca5ec5ea9b293d1d46.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/205/0ab1c153d7bc3aca5ec5ea9b293d1d46.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0e896bfd7fcd15b785000abcef63ae01.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/221/0e896bfd7fcd15b785000abcef63ae01.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7dc647cdc354a0f38c961749b6650f08.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/217/7dc647cdc354a0f38c961749b6650f08.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a5f5c76605ada2ac848b0a068ec3dc5a.jpeg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/219/a5f5c76605ada2ac848b0a068ec3dc5a.jpeg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/be248a1b80d70d11d566379c20a39407.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc2.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0ab1c153d7bc3aca5ec5ea9b293d1d46.jpg -> /tmp/shortpixel-phpWLHEoV/multumesc6.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0e896bfd7fcd15b785000abcef63ae01.jpg -> /tmp/shortpixel-phpWLHEoV/multverde1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7dc647cdc354a0f38c961749b6650f08.png -> /tmp/shortpixel-phpWLHEoV/multverde2.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a5f5c76605ada2ac848b0a068ec3dc5a.jpeg -> /tmp/shortpixel-phpWLHEoV/multverde3.jpeg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/59c9ab2a17af29693ad472dd4a763759.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/374/59c9ab2a17af29693ad472dd4a763759.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/59c9ab2a17af29693ad472dd4a763759.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0a99a3750b64d531365a405ee97ade5b.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/116/0a99a3750b64d531365a405ee97ade5b.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/352fcc4fb6bf1a78e3a5afdf9ae23f80.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/353/352fcc4fb6bf1a78e3a5afdf9ae23f80.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0a99a3750b64d531365a405ee97ade5b.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/352fcc4fb6bf1a78e3a5afdf9ae23f80.jpg -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/cc.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/519c5eaaa3df299b3e3ff5c440a9fcfb.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/276/519c5eaaa3df299b3e3ff5c440a9fcfb.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5217d1d01fb1a4ee2660c5975ad24434.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/429/5217d1d01fb1a4ee2660c5975ad24434.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d9adadffdd6d739f6ba35a32c357fa76.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/127/d9adadffdd6d739f6ba35a32c357fa76.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a0b61a76bba610aa3c410bf917f5032b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/114/a0b61a76bba610aa3c410bf917f5032b.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1b1cf02ab35202b30878b171954ebd64.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/165/1b1cf02ab35202b30878b171954ebd64.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/519c5eaaa3df299b3e3ff5c440a9fcfb.jpg -> /tmp/shortpixel-phpthJMU8/final referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5217d1d01fb1a4ee2660c5975ad24434.jpg -> /tmp/shortpixel-phpthJMU8/plansa 2 referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d9adadffdd6d739f6ba35a32c357fa76.jpg -> /tmp/shortpixel-phpthJMU8/plansa 3 referinta-08.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/a0b61a76bba610aa3c410bf917f5032b.jpg -> /tmp/shortpixel-phpthJMU8/plansa 4 referinta-09.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1b1cf02ab35202b30878b171954ebd64.jpg -> /tmp/shortpixel-phpthJMU8/plansa 5 referinta-01.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/68593e47b9cd87744cb979814d6e1d4b.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/168/68593e47b9cd87744cb979814d6e1d4b.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1e8dec5d8064b8b2099c4faa47f5b0bb.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/381/1e8dec5d8064b8b2099c4faa47f5b0bb.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ca5391036c8fc34b91d6d18720cfc7b0.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/414/ca5391036c8fc34b91d6d18720cfc7b0.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d485fb67584f6355a056b2d17b442593.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/319/d485fb67584f6355a056b2d17b442593.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ae56241fd45cb6cecc9f708451aedeb0.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/211/ae56241fd45cb6cecc9f708451aedeb0.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/80bdce5d50f770e1651576c2dcfa2f87.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/283/80bdce5d50f770e1651576c2dcfa2f87.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c7a9e0935496e27f6e08ecf360001597.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/998/c7a9e0935496e27f6e08ecf360001597.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3b5be5b8b04c8fae9fdf69fdf2305e57.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/298/3b5be5b8b04c8fae9fdf69fdf2305e57.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/08f9593c416e1cb1113606b0cf977f0d.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/109/08f9593c416e1cb1113606b0cf977f0d.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c1863062b2bd5cec73113dab4d415868.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/302/c1863062b2bd5cec73113dab4d415868.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/68593e47b9cd87744cb979814d6e1d4b.jpg -> /tmp/shortpixel-phpthJMU8/18okjfqnzlujejpg.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1e8dec5d8064b8b2099c4faa47f5b0bb.jpg -> /tmp/shortpixel-phpthJMU8/2235_021_k01_i4c_ref01_-480x425.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ca5391036c8fc34b91d6d18720cfc7b0.jpg -> /tmp/shortpixel-phpthJMU8/696712874740327086.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/d485fb67584f6355a056b2d17b442593.jpg -> /tmp/shortpixel-phpthJMU8/Channel_digital_image_CMYK_color.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ae56241fd45cb6cecc9f708451aedeb0.jpg -> /tmp/shortpixel-phpthJMU8/Elliott_5-original-lossless.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/80bdce5d50f770e1651576c2dcfa2f87.jpg -> /tmp/shortpixel-phpthJMU8/Exeter-Uni-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c7a9e0935496e27f6e08ecf360001597.jpg -> /tmp/shortpixel-phpthJMU8/POLYCELL-HI-RES-ALL-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3b5be5b8b04c8fae9fdf69fdf2305e57.jpg -> /tmp/shortpixel-phpthJMU8/POLYCELL-HI-RES-ALL.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/08f9593c416e1cb1113606b0cf977f0d.jpg -> /tmp/shortpixel-phpthJMU8/bug-upload-optimizer.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c1863062b2bd5cec73113dab4d415868.jpg -> /tmp/shortpixel-phpthJMU8/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/01080e66dc41face759a05752cb2cd3e.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/312/01080e66dc41face759a05752cb2cd3e.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/6318aa6c5c8620d13a7e29456be99570.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/347/6318aa6c5c8620d13a7e29456be99570.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0547fabc169b4ad5b2a33a6cf68b71be.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/360/0547fabc169b4ad5b2a33a6cf68b71be.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ee727d389f126486c3b5847b6d090155.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/264/ee727d389f126486c3b5847b6d090155.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/068b4626b0731e01baa20cf0bc5380a9.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/286/068b4626b0731e01baa20cf0bc5380a9.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5888c2544b4c03ed7da8ff4af4b32138.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/197/5888c2544b4c03ed7da8ff4af4b32138.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ca758dafbc4af3268d2cdf69b10d662e.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/202/ca758dafbc4af3268d2cdf69b10d662e.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/005d05e7fec455b9c327ccedca7cb13e.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/284/005d05e7fec455b9c327ccedca7cb13e.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/35f9a261e0923d2eff5113a2ced0c700.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/398/35f9a261e0923d2eff5113a2ced0c700.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/59273fddee259a6fbd17582b21d1546c.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/365/59273fddee259a6fbd17582b21d1546c.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/01080e66dc41face759a05752cb2cd3e.jpg -> /tmp/shortpixel-phpthJMU8/cerbu.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/6318aa6c5c8620d13a7e29456be99570.jpg -> /tmp/shortpixel-phpthJMU8/eros.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/0547fabc169b4ad5b2a33a6cf68b71be.jpg -> /tmp/shortpixel-phpthJMU8/eros2-1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ee727d389f126486c3b5847b6d090155.jpg -> /tmp/shortpixel-phpthJMU8/eros3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/068b4626b0731e01baa20cf0bc5380a9.jpg -> /tmp/shortpixel-phpthJMU8/eros4.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5888c2544b4c03ed7da8ff4af4b32138.jpg -> /tmp/shortpixel-phpthJMU8/mistretz.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ca758dafbc4af3268d2cdf69b10d662e.jpg -> /tmp/shortpixel-phpthJMU8/multumesc1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/005d05e7fec455b9c327ccedca7cb13e.jpg -> /tmp/shortpixel-phpthJMU8/multumesc2.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/35f9a261e0923d2eff5113a2ced0c700.jpg -> /tmp/shortpixel-phpthJMU8/multumesc3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/59273fddee259a6fbd17582b21d1546c.jpg -> /tmp/shortpixel-phpthJMU8/multumesc4.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/47e2bf297cfe2ced668f2020fba7787d.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/343/47e2bf297cfe2ced668f2020fba7787d.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1b5bd9cbae610ce1186e77e08588a574.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/715/1b5bd9cbae610ce1186e77e08588a574.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2055eefa3f4bc7a4db3f68071e857f22.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/337/2055eefa3f4bc7a4db3f68071e857f22.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c8adcfe6a0aa15fc70afb21ce54c4d94.jpeg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/199/c8adcfe6a0aa15fc70afb21ce54c4d94.jpeg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/47e2bf297cfe2ced668f2020fba7787d.jpg -> /tmp/shortpixel-phpthJMU8/multumesc6.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/1b5bd9cbae610ce1186e77e08588a574.jpg -> /tmp/shortpixel-phpthJMU8/multverde1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2055eefa3f4bc7a4db3f68071e857f22.png -> /tmp/shortpixel-phpthJMU8/multverde2.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/c8adcfe6a0aa15fc70afb21ce54c4d94.jpeg -> /tmp/shortpixel-phpthJMU8/multverde3.jpeg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/098bd06492224e0736a45de22f24d180.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/212/098bd06492224e0736a45de22f24d180.png)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/098bd06492224e0736a45de22f24d180.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9b3baf12ebf2974de3de816c18ad17cb.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/855/9b3baf12ebf2974de3de816c18ad17cb.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/396356b3ac65a92472f0ce69ac14cff8.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/191/396356b3ac65a92472f0ce69ac14cff8.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9b3baf12ebf2974de3de816c18ad17cb.png -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/shortpixel.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/396356b3ac65a92472f0ce69ac14cff8.jpg -> /home/simon/ShortPixel/DEV/WRAPERS/shortpixel-php-test/test/data/cc.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cad70b53d25c26be15deb50308d95411.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/292/cad70b53d25c26be15deb50308d95411.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3a53af8f5e73f06c0f6ec2f5aa9b70d2.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/137/3a53af8f5e73f06c0f6ec2f5aa9b70d2.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/81eb76fb9ec040c3917543413177a4f8.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/940/81eb76fb9ec040c3917543413177a4f8.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9dc433f7c321a1db1fccbaecba6afd79.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/429/9dc433f7c321a1db1fccbaecba6afd79.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/da22c5913d9fcfec06112155c0c5ad00.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/237/da22c5913d9fcfec06112155c0c5ad00.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cad70b53d25c26be15deb50308d95411.jpg -> /tmp/shortpixel-phpWrMYeW/final referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/3a53af8f5e73f06c0f6ec2f5aa9b70d2.jpg -> /tmp/shortpixel-phpWrMYeW/plansa 2 referinta-07.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/81eb76fb9ec040c3917543413177a4f8.jpg -> /tmp/shortpixel-phpWrMYeW/plansa 3 referinta-08.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/9dc433f7c321a1db1fccbaecba6afd79.jpg -> /tmp/shortpixel-phpWrMYeW/plansa 4 referinta-09.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/da22c5913d9fcfec06112155c0c5ad00.jpg -> /tmp/shortpixel-phpWrMYeW/plansa 5 referinta-01.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/82a4de3dfcf3953e34104b0dc2cd06f3.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/531/82a4de3dfcf3953e34104b0dc2cd06f3.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/963967199167eeaed8acb937a9d86aad.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/418/963967199167eeaed8acb937a9d86aad.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/176efd3aa4da369e762a2cb6415ed6c8.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/284/176efd3aa4da369e762a2cb6415ed6c8.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/e4e618b9d7ca8f823436200315dc5bb8.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/358/e4e618b9d7ca8f823436200315dc5bb8.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cc641b56fa868820554dfbafe524d828.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/321/cc641b56fa868820554dfbafe524d828.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8834fa3718f87fa58b5d5539dc0e3090.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/276/8834fa3718f87fa58b5d5539dc0e3090.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/25b00c461f0f2fc18e49c4d468b79681.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/382/25b00c461f0f2fc18e49c4d468b79681.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b5162bb5d1f4cb5716c99586c053210a.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/410/b5162bb5d1f4cb5716c99586c053210a.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7ef7e3b5c0c96ae1bf1565f0fd1d5f72.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/359/7ef7e3b5c0c96ae1bf1565f0fd1d5f72.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5a64110d041f5646c1b993fa524e67ba.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/399/5a64110d041f5646c1b993fa524e67ba.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/82a4de3dfcf3953e34104b0dc2cd06f3.jpg -> /tmp/shortpixel-phpWrMYeW/18okjfqnzlujejpg.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/963967199167eeaed8acb937a9d86aad.jpg -> /tmp/shortpixel-phpWrMYeW/2235_021_k01_i4c_ref01_-480x425.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/176efd3aa4da369e762a2cb6415ed6c8.jpg -> /tmp/shortpixel-phpWrMYeW/696712874740327086.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/e4e618b9d7ca8f823436200315dc5bb8.jpg -> /tmp/shortpixel-phpWrMYeW/Channel_digital_image_CMYK_color.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/cc641b56fa868820554dfbafe524d828.jpg -> /tmp/shortpixel-phpWrMYeW/Elliott_5-original-lossless.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/8834fa3718f87fa58b5d5539dc0e3090.jpg -> /tmp/shortpixel-phpWrMYeW/Exeter-Uni-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/25b00c461f0f2fc18e49c4d468b79681.jpg -> /tmp/shortpixel-phpWrMYeW/POLYCELL-HI-RES-ALL-150x150.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b5162bb5d1f4cb5716c99586c053210a.jpg -> /tmp/shortpixel-phpWrMYeW/POLYCELL-HI-RES-ALL.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/7ef7e3b5c0c96ae1bf1565f0fd1d5f72.jpg -> /tmp/shortpixel-phpWrMYeW/bug-upload-optimizer.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/5a64110d041f5646c1b993fa524e67ba.jpg -> /tmp/shortpixel-phpWrMYeW/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b87ee1d964575c6e2a1fa375be377cf8.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/217/b87ee1d964575c6e2a1fa375be377cf8.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/aaca94a829bbb0d71c3fca3e16277ee0.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/403/aaca94a829bbb0d71c3fca3e16277ee0.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/852a3267b0bf464398db60a222db2167.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/220/852a3267b0bf464398db60a222db2167.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ff927fdc6f88027b8d891f7b6541094e.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/282/ff927fdc6f88027b8d891f7b6541094e.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/166c796edbd806a26087a1cbb3d58629.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/414/166c796edbd806a26087a1cbb3d58629.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/771da5a9ec14dfdd3b30e8b02076e8ae.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/270/771da5a9ec14dfdd3b30e8b02076e8ae.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/764919e6f0eb2041cbaaf8148b3cba15.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/839/764919e6f0eb2041cbaaf8148b3cba15.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bc7956b1fc9999dd2ebfa93f15afe020.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/140/bc7956b1fc9999dd2ebfa93f15afe020.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/374d4a21150d7bc9093d64a1e9fb9db5.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/194/374d4a21150d7bc9093d64a1e9fb9db5.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf8e9166dadc4cc9593b881f11144825.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/365/bf8e9166dadc4cc9593b881f11144825.jpg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/b87ee1d964575c6e2a1fa375be377cf8.jpg -> /tmp/shortpixel-phpWrMYeW/cerbu.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/aaca94a829bbb0d71c3fca3e16277ee0.jpg -> /tmp/shortpixel-phpWrMYeW/eros.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/852a3267b0bf464398db60a222db2167.jpg -> /tmp/shortpixel-phpWrMYeW/eros2-1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ff927fdc6f88027b8d891f7b6541094e.jpg -> /tmp/shortpixel-phpWrMYeW/eros3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/166c796edbd806a26087a1cbb3d58629.jpg -> /tmp/shortpixel-phpWrMYeW/eros4.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/771da5a9ec14dfdd3b30e8b02076e8ae.jpg -> /tmp/shortpixel-phpWrMYeW/mistretz.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/764919e6f0eb2041cbaaf8148b3cba15.jpg -> /tmp/shortpixel-phpWrMYeW/multumesc1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bc7956b1fc9999dd2ebfa93f15afe020.jpg -> /tmp/shortpixel-phpWrMYeW/multumesc2.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/374d4a21150d7bc9093d64a1e9fb9db5.jpg -> /tmp/shortpixel-phpWrMYeW/multumesc3.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf8e9166dadc4cc9593b881f11144825.jpg -> /tmp/shortpixel-phpWrMYeW/multumesc4.jpg
+
+
+URL Statuses: 
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2fdca13e15b53c5203317f917e436dae.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/247/2fdca13e15b53c5203317f917e436dae.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/13057191ccc974ac04629ad1cfb95699.jpg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/802/13057191ccc974ac04629ad1cfb95699.jpg)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf774b04dbd0184559de7ede781657de.png(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/215/bf774b04dbd0184559de7ede781657de.png)
+2 http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ed65426eebb54b92154bce55c94d793d.jpeg(/usr/local/ssd-drive/shortpixel/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/174/ed65426eebb54b92154bce55c94d793d.jpeg)
+
+
+File mappings: 
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/2fdca13e15b53c5203317f917e436dae.jpg -> /tmp/shortpixel-phpWrMYeW/multumesc6.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/13057191ccc974ac04629ad1cfb95699.jpg -> /tmp/shortpixel-phpWrMYeW/multverde1.jpg
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/bf774b04dbd0184559de7ede781657de.png -> /tmp/shortpixel-phpWrMYeW/multverde2.png
+http://api.shortpixel.com/u/nHzR50CIdSUL3A7exoInl8uSVDqjpZcP5D4h3HeWw/ed65426eebb54b92154bce55c94d793d.jpeg -> /tmp/shortpixel-phpWrMYeW/multverde3.jpeg
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-many/18okjfqnzlujejpg.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/2235_021_k01_i4c_ref01_-480x425.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/696712874740327086.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/Channel_digital_image_CMYK_color.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/Elliott_5-original-lossless.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/Exeter-Uni-150x150.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/POLYCELL-HI-RES-ALL-150x150.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/POLYCELL-HI-RES-ALL.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/bug-upload-optimizer.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-many/cerbu.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/eros.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/eros2-1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/eros3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/eros4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/mistretz.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multumesc1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multumesc2.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multumesc3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multumesc4.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-many/multumesc6.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multverde1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-many/multverde2.png
+2 http://shortpixel.com/img/tests/wrapper/images-many/multverde3.jpeg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/cerbu.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros2-1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/mistretz.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/cerbu.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros2-1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/mistretz.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/cerbu.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros2-1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/eros4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders//sub/mistretz.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/cerbu.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros2-1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/eros4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub/mistretz.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub3/Exeter-Uni-150x150.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/NFCSupport-Template-29mm-rond.pdf
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/NFCSupport-Template-29mm-square.pdf
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/logo.png
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multumesc1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multumesc2.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multumesc3.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multumesc4.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multumesc6.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multverde1.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multverde2.png
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/multverde3.jpeg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/n-NAVAJO-TRIBE-large300.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/open-floor-plan.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/sub4/open-shower.jpg
+
+
+File mappings: 
+
+
+URL Statuses: 
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/18okjfqnzlujejpg.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/2235_021_k01_i4c_ref01_-480x425.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/696712874740327086.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/Channel_digital_image_CMYK_color.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/Elliott_5-original-lossless.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/bug-upload-optimizer.jpg
+2 http://shortpixel.com/img/tests/wrapper/images-subfolders/c3rgfb8dr5xyjcgx3o1w.jpg
+
+
+File mappings: 
+
