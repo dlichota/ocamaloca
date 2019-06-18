@@ -1913,7 +1913,7 @@ figure img {
 }
 
 .hero-half-background {
-    background-image: url("images/ocamaloca-hero-half.jp2");
+    background-image: url("images/ocamaloca-hero-half.webp");
 }
 
 @media screen and (max-width: 990px) {
