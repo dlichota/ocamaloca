@@ -1929,13 +1929,13 @@ figure img {
     border-radius: 5px;
     color: #7b7a82;
     position: relative;
-    top: 300px;
+    top: 250px;
     bottom: auto;
 }
 
 @media screen and (max-width: 990px) {
     .hero .hero-content {
-        margin-top: 70px;
+        margin-top: 90px;
         margin-bottom: 50px;
         top: 0;
     }
