@@ -1907,7 +1907,7 @@ figure img {
 }
 
 .hero-half-background {
-    background-image: url("images/ocamaloca-hero-half.webp");
+    background-image: url("images/ocamaloca-hero-half.png");
 }
 
 @media screen and (max-width: 990px) {
