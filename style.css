@@ -513,6 +513,9 @@ form input[type="reset"]:hover {
     background: -webkit-linear-gradient(90deg, #eeb658, #ee8358);
     background: linear-gradient(0deg, #eeb658, #ee8358);
 }
+.hidden {
+    visibility: hidden;
+}
 
 .button {
     background: #eeb658;
