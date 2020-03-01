@@ -2439,9 +2439,11 @@ h2 {
 }
 
 .social-links a.instagram {
-    background-color: #cc2e3c;
+    /*background-color: #cc2e3c;*/
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
 
 .social-links a.instagram:hover {
     background-color: #d95460;
+
 }
