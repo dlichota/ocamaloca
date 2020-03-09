@@ -127,9 +127,6 @@
                                 </p>
                                 <!-- .request-form -->
                                 <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                                    <p class="hidden">
-                                        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-                                    </p>
                                     <p>
                                         <label>Your Name: <input type="text" name="name" required /></label>
                                     </p>
@@ -145,7 +142,9 @@
                                     <p>
                                         <input type="submit" value="Check Availability">
                                     </p>
-                                    <p></p>
+                                    <p class="hidden">
+                                        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                                    </p>
                                 </form>
                             </div>
                             <!-- .request-form -->
