@@ -1818,7 +1818,7 @@ figure img {
 /* Header Styles */
 
 .site-header {
-    background-image: url("images/ocamaloca-0.webp")
+    background-image: url("images/ocamaloca-0.webp");
     text-align: center;
     height: 160px;
     position: relative;
