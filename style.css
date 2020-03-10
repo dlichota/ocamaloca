@@ -545,6 +545,10 @@ figure img {
     display: block;
 }
 
+nav {
+    font-weight: 300;
+}
+
 /* Reusable Components Style */
 
 .container {
