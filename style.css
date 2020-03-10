@@ -513,6 +513,7 @@ form input[type="reset"]:hover {
     background: -webkit-linear-gradient(90deg, #eeb658, #ee8358);
     background: linear-gradient(0deg, #eeb658, #ee8358);
 }
+
 .hidden {
     visibility: hidden;
 }
@@ -2083,6 +2084,20 @@ h2 {
     color: #5a595e;
 }
 
+.mapouter {
+    position: relative;
+    text-align: center;
+    height: 600px;
+    width: 800px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 600px;
+    width: 800px;
+}
+
 .posts-list {
     position: relative;
     *zoom: 1;
@@ -2440,7 +2455,7 @@ h2 {
 
 .social-links a.instagram {
     /*background-color: #cc2e3c;*/
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
 }
 
 .social-links a.instagram:hover {
