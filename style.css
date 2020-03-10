@@ -545,8 +545,19 @@ figure img {
     display: block;
 }
 
-.nav {
+nav {
+    display: block;
     font-weight: 300;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
 }
 
 /* Reusable Components Style */
