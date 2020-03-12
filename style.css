@@ -2024,6 +2024,12 @@ li {
 
 /* Carousel */
 
+.slides-container {
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid #bbb;
+}
+
 .carousel {
     position: relative;
     overflow: hidden;
