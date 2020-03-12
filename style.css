@@ -633,7 +633,7 @@ li {
     height: 0;
 }
 
-span .fa fa-angle-double-up:before {
+#gototop {
     font-size: 3em;
     text-align: center;
 }
