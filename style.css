@@ -633,7 +633,7 @@ li {
     height: 0;
 }
 
-#gototop {
+.gototop {
     font-size: 3em;
     text-align: center;
 }
