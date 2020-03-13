@@ -2042,6 +2042,7 @@ li {
     overflow: hidden;
     padding: 0;
     margin: 0;
+    height: 338px;
     width: 1600%;
     transition: transform 0.3s cubic-bezier(.694, .0482, .335, 1);
 }
