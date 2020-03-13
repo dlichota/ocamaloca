@@ -159,6 +159,10 @@ blockquote::after {
     font-size: 2em;
 }
 
+#wiki {
+    font-size: 0.5em;
+}
+
 /*Calendar */
 
 
