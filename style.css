@@ -2034,14 +2034,14 @@ li {
 .carousel {
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 70%;
 }
 
 .carousel-container {
     list-style: none;
     overflow: hidden;
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
     width: 1600%;
     transition: transform 0.3s cubic-bezier(.694, .0482, .335, 1);
 }
