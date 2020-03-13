@@ -148,12 +148,14 @@ blockquote::before {
     content: open-quote;
     position: relative;
     font-family: fantasy;
+    font-size: 2em;
 }
 
 blockquote::after {
     content: close-quote;
     position: relative;
     font-family: fantasy;
+    font-size: 2em;
 }
 
 /*Calendar */
