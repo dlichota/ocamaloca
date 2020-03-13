@@ -141,6 +141,7 @@ iframe {
 
 blockquote {
     font-style: oblique;
+    margin: auto;
 }
 
 blockquote::before {
