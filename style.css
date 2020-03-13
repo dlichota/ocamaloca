@@ -2048,7 +2048,7 @@ li {
 
 .carousel-item {
     position: relative;
-    float: left;
+    float: center;
     width: 6.25%;
 }
 
