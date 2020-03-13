@@ -139,6 +139,18 @@ iframe {
     width: 80%;
 }
 
+blockquote {
+    font-style: oblique;
+}
+
+blockquote::before {
+    content: open-quote;
+}
+
+blockquote::after {
+    content: close-quote;
+}
+
 /*Calendar */
 
 
