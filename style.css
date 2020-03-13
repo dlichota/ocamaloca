@@ -146,10 +146,12 @@ blockquote {
 
 blockquote::before {
     content: open-quote;
+    position: relative;
 }
 
 blockquote::after {
     content: close-quote;
+    position: relative;
 }
 
 /*Calendar */
