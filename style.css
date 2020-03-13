@@ -2034,7 +2034,8 @@ li {
 .carousel {
     position: relative;
     overflow: hidden;
-    width: 70%;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .carousel-container {
