@@ -587,7 +587,7 @@ li {
 
 @media (min-width: 992px) {
     .container {
-        width: 750px;
+        width: 100%;
     }
 }
 
