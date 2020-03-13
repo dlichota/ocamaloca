@@ -147,11 +147,13 @@ blockquote {
 blockquote::before {
     content: open-quote;
     position: relative;
+    font-weight: 500;
 }
 
 blockquote::after {
     content: close-quote;
     position: relative;
+    font-weight: 500;
 }
 
 /*Calendar */
