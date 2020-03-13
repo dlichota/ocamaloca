@@ -147,6 +147,7 @@ blockquote {
 blockquote::before {
     content: open-quote;
     position: absolute;
+    margin-left: -20px;
     font-family: fantasy;
     font-size: 2em;
 }
