@@ -86,6 +86,13 @@ h3 {
     margin: 1em 0;
 }
 
+h3,
+a {
+    font-size: 1.17em;
+    margin: 1em 0;
+    color: cadetblue;
+}
+
 h4 {
     font-size: 1em;
     margin: 1.33em 0;
