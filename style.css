@@ -91,10 +91,11 @@ h4 {
     margin: 1.33em 0;
 }
 
-h4 .review {
+h4,
+.review {
     font-size: 1em;
     margin: 1.33em 0;
-    color: cadetblue;
+    text-decoration-color: cadetblue;
 }
 
 h5 {
