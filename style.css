@@ -37,9 +37,10 @@ audio:not([controls]) {
 template {
     display: none;
 }
-
-html {
+*{
     box-sizing: border-box;
+}
+html {
     background: #fff;
     color: #000;
     -webkit-text-size-adjust: 100%;
