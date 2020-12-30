@@ -89,11 +89,27 @@ h3 {
     margin: 1em 0;
 }
 
+h2,
+.cv19 {
+    color: red;
+    font-weight: 1000;
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+
 h3,
 a {
     font-size: 1.17rem;
     margin: 1em 0;
     color: cadetblue;
+}
+
+h3,
+.cv19 {
+    color: red;
+    font-weight: 1000;
+    font-size: 2rem;
+    font-variant: small-caps;
 }
 
 h4 {
@@ -117,12 +133,6 @@ h5 {
 h6 {
     font-size: 0.75rem;
     margin: 2.33em 0;
-}
-
-.cv19 {
-    color: red;
-    font-weight: 1000;
-    font-variant: small-caps;
 }
 
 abbr[title] {
