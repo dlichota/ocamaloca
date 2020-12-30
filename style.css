@@ -37,9 +37,11 @@ audio:not([controls]) {
 template {
     display: none;
 }
-*{
+
+* {
     box-sizing: border-box;
 }
+
 html {
     background: #fff;
     color: #000;
@@ -78,7 +80,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     margin: 0.83em 0;
 }
 
@@ -89,32 +91,38 @@ h3 {
 
 h3,
 a {
-    font-size: 1.17em;
+    font-size: 1.17rem;
     margin: 1em 0;
     color: cadetblue;
 }
 
 h4 {
-    font-size: 1em;
+    font-size: 1rem;
     margin: 1.33em 0;
 }
 
 h4,
 .review {
-    font-size: 1em;
+    font-size: 1rem;
     margin: 1.33em 0;
     color: cadetblue;
     text-align: center;
 }
 
 h5 {
-    font-size: 0.83em;
+    font-size: 0.83rem;
     margin: 1.67em 0;
 }
 
 h6 {
-    font-size: 0.75em;
+    font-size: 0.75rem;
     margin: 2.33em 0;
+}
+
+.cv19 {
+    font-size: 2rem;
+    color: red;
+    font-weight: bolder;
 }
 
 abbr[title] {
