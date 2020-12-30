@@ -121,7 +121,8 @@ h6 {
 
 .cv19 {
     color: red;
-    font-weight: bolder;
+    font-weight: 1000;
+    font-variant: small-caps;
 }
 
 abbr[title] {
