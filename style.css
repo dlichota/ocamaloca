@@ -159,6 +159,7 @@ abbr[title] {
 img {
     margin: auto;
     vertical-align: middle;
+    max-width: 100%;
 }
 
 .frame-area {
