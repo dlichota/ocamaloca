@@ -128,6 +128,7 @@ h6 {
 }
 
 .nav {
+    font-stretch: expanded;
     justify-content: center;
 }
 
