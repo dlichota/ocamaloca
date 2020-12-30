@@ -691,6 +691,10 @@ li {
     margin: 0 auto;
 }
 
+.col {
+    /* these are now flex items */
+    width: 100%;
+}
 
 .col-xs-1,
 .col-sm-1,
