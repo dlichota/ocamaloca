@@ -128,9 +128,17 @@ h6 {
 }
 
 .nav {
-    display: flex;
+    display: inline-block;
     text-align: center;
     margin: auto 0;
+}
+
+h2,
+.special {
+    display: inline-block;
+    font-weight: 900;
+    font-variant: small-caps;
+    color: red;
 }
 
 abbr[title] {
