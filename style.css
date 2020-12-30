@@ -672,7 +672,6 @@ li {
 }
 
 .row {
-    display: flex;
     margin-left: 20px;
     margin-right: auto;
     *zoom: 1;
