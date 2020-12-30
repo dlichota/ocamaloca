@@ -695,6 +695,7 @@ li {
 .col {
     /* these are now flex items */
     width: 100%;
+    padding: 2em;
 }
 
 .col-xs-1,
