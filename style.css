@@ -101,7 +101,7 @@ a {
     color: red;
     font-weight: 1000;
     font-size: 2rem;
-    font-variant: small-caps;
+    text-transform: uppercase;
 }
 
 h4 {
@@ -1952,7 +1952,6 @@ li {
 }
 
 #branding .site-title {
-    font-size: 18px;
     font-size: 2rem;
     text-transform: uppercase;
     margin: 0;
