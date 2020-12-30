@@ -196,6 +196,7 @@ blockquote::after {
 
 .container {
     position: relative;
+    margin: 0 auto;
 }
 
 .fadein {
@@ -2250,7 +2251,7 @@ li {
 .hero .hero-content {
     background: white;
     display: inline-block;
-    padding: 30px;
+    padding: 100px 0;
     border-radius: 5px;
     color: #7b7a82;
     position: relative;
