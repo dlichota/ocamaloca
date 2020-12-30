@@ -127,6 +127,10 @@ h6 {
     margin: 2.33em 0;
 }
 
+.nav {
+    justify-content: center;
+}
+
 abbr[title] {
     border-bottom: 1px dotted;
 }
