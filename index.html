@@ -116,9 +116,8 @@
         <main class="main-content">
             <div class="hero">
                 <!-- <div class="hero-half-background"</div>-->
-                <div class="fullwidth-block">
-                    <div class="container">
-                        <!-- .col-md-5-->
+                <div class="container">
+                    <div class="row">
                         <div class="col-md-5">
                             <div class="hero-content">
                                 <h2 class="hero-title"><strong>Villa Oca Maloca</strong>
@@ -127,7 +126,7 @@
                                     <br />Tortola, British Virgin Islands
                                 </h2>
                                 <h3>
-                                    <a href="#calendar">Calendar </a> | <a href="#map"> Location </a> | <a href="#photos"> Photos </a> | <a href="#goldseal"> Gold Seal</a>
+                                    <a href="#calendar">Calendar </a> | <a href="#map"> Location </a> | <a href="#photos">Photos</a>
                                 </h3>
                                 <p>Oca Maloca vacation rental apartment on Tortola, British Virgin Islands is 5 minutes from Nanny Cay Marina and overlooks Sir Francis Drake Channel and the Caribbean Sea, with a view of Norman Island and Peter Island and other islands of the BVI and USVI. Oca Maloca is an airconditioned, one bedroom, one bathroom apartment and is well appointed with a fully equipped gourmet kitchen, free wifi and parking. There is a sofa bed for a third person to sleep and a large wrap-around deck from which to enjoy meals, sip cocktails and relish the view.
                                 </p>
@@ -146,51 +145,52 @@
                                 <!-- End Repuso widget code -->
                             </div>
                         </div>
-                    </div>
-                    <!-- .col-md-5 -->
-                    <div class="col-md-5 col-md-offset-2">
-                        <div class="request-form">
-                            <header>
-                                <h2>Contact <br /><strong>Oca Maloca</strong></h2>
-                            </header>
-                            <p>The owners have lived and worked on Tortola BVI for many years and are very familar with the best beaches, bars, restaurants and shopping. Contact us for any questions you may have about your trip - we are sure to be able to help.</p>
-                            <h3>
-                                <a href="#calendar">Calendar </a> | <a href="#map"> Location </a> | <a href="#photos"> Photos </a> | <a href="#goldseal"> Gold Seal</a>
-                            </h3>
+
+                        <!-- .col-md-5 -->
+                        <div class="col-md-5 col-md-offset-2">
+                            <div class="request-form">
+                                <header>
+                                    <h2>Contact <br /><strong>Oca Maloca</strong></h2>
+                                </header>
+                                <p>The owners have lived and worked on Tortola BVI for many years and are very familar with the best beaches, bars, restaurants and shopping. Contact us for any questions you may have about your trip - we are sure to be able to help.</p>
+                                <h3>
+                                    <a href="#calendar">Calendar </a> | <a href="#map"> Location </a> | <a href="#photos">Photos</a>
+                                </h3>
+
+                                <!-- .request-form -->
+                                <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                                    <p>
+                                        <label>Your Name: <input type="text" name="name" required /></label>
+                                    </p>
+                                    <p>
+                                        <label>Your Email: <input type="email" name="email" required /></label>
+                                    </p>
+                                    <p>
+                                        <label>Message: <textarea name="message" rows="5" placeholder="Be sure to tell us the dates of your stay and any other questions you may have." required></textarea></label>
+                                    </p>
+                                    <p><label for="arrival">Arrival Date:</label>
+                                        <input type="date" name="arrival" id="datepicker" required>
+                                    </p>
+                                    <p>
+                                        <input type="submit" value="Check Availability">
+                                    </p>
+                                    <p class="hidden">
+                                        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                                    </p>
+                                </form>
+                                <div class="gototop">
+                                    <a href="#pagetop"><span class="fa fa-angle-double-up"></span></a>
+                                </div>
+                            </div>
 
                             <!-- .request-form -->
-                            <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                                <p>
-                                    <label>Your Name: <input type="text" name="name" required /></label>
-                                </p>
-                                <p>
-                                    <label>Your Email: <input type="email" name="email" required /></label>
-                                </p>
-                                <p>
-                                    <label>Message: <textarea name="message" rows="5" placeholder="Be sure to tell us the dates of your stay and any other questions you may have." required></textarea></label>
-                                </p>
-                                <p><label for="arrival">Arrival Date:</label>
-                                    <input type="date" name="arrival" id="datepicker" required>
-                                </p>
-                                <p>
-                                    <input type="submit" value="Check Availability">
-                                </p>
-                                <p class="hidden">
-                                    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-                                </p>
-                            </form>
-                            <div class="gototop">
-                                <a href="#pagetop"><span class="fa fa-angle-double-up"></span></a>
-                            </div>
                         </div>
-
-                        <!-- .request-form -->
+                        <!-- .col-md-5 -->
                     </div>
+                    <!-- .row -->
                 </div>
-                <!-- .col-md-5 -->
+                <!-- .container -->
             </div>
-            <!-- .row
-                </div>-->
             <!-- .container -->
 
 
