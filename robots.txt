@@ -1,2 +1,3 @@
 User-Agent: *
 Allow: /
+Sitemap: https://ocamaloca.com/sitemap.xml
