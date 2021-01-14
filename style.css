@@ -133,13 +133,11 @@ h6 {
     margin: 0 auto;
 }
 
-h2,
+
 .special {
     display: inline-block;
-    font-weight: 900;
     font-variant: small-caps;
     color: red;
-    line-height: 1.5rem;
 }
 
 abbr[title] {
