@@ -672,10 +672,9 @@ li {
 }
 
 .gold {
-    font-stretch: expanded;
-    font-style: italic;
-    text-decoration-color: crimson;
+    color: crimson;
     text-align: center;
+    font-size: 2em;
 }
 
 .container-fluid {
