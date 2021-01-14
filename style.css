@@ -675,6 +675,7 @@ li {
     font-stretch: expanded;
     font-style: italic;
     text-decoration-color: crimson;
+    text-align: center;
 }
 
 .container-fluid {
