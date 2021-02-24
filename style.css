@@ -671,6 +671,8 @@ li {
 }
 
 .gold {
+    border-style: double;
+    border-color: crimson;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     color: crimson;
