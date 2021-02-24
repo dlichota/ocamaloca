@@ -49,6 +49,9 @@ html {
     -ms-text-size-adjust: 100%;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
 html,
 button,
 input,
@@ -136,6 +139,7 @@ h6 {
 
 .special {
     display: inline-block;
+    font-family: 'Roboto', sans-serif;
     font-variant: small-caps;
     color: red;
 }
@@ -665,11 +669,11 @@ li {
 
 @font-face {
     font-family: 'Arvo';
-    font-display: swap;
     src: local('Arvo'), url(https://fonts.gstatic.com/s/arvo/v9/rC7kKhY-eUDY-ucISTIf5PesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
 }
 
 .gold {
+    font-family: 'Roboto', sans-serif;
     color: crimson;
     text-align: center;
     font-size: 3em;
