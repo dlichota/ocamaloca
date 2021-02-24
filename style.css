@@ -674,6 +674,7 @@ li {
 
 .gold {
     font-family: 'Roboto', sans-serif;
+    font-weight: 500;
     color: crimson;
     text-align: center;
     font-size: 3em;
