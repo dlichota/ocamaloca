@@ -49,9 +49,6 @@ html {
     -ms-text-size-adjust: 100%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
-
-
 html,
 button,
 input,
@@ -136,6 +133,7 @@ h6 {
     margin: 0 auto;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 .special {
     display: inline-block;
