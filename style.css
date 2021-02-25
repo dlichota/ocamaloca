@@ -136,6 +136,10 @@ h6 {
     color: red;
 }
 
+.tax {
+    text-align: center;
+}
+
 abbr[title] {
     border-bottom: 1px dotted;
 }
