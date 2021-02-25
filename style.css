@@ -129,6 +129,7 @@ h6 {
 
 .special {
     display: inline-block;
+    text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 2em;
     font-variant: small-caps;
