@@ -195,17 +195,17 @@
                                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                                     </p>
                                 </form>
-				<a href="#" class="popout-link">Leave a Comment</a>
-				<div class="popout-window">
-  					<div class="popout-window-content">
-    						<h4 class="review">Please Leave a Comment Below</h4>
-                                		<!-- Begin Commento widget code -->
+				<a href="#" class="popup-link">Leave a Comment</a>
+				    <div class="popup-window">
+  					<div class="popup-window-content">
+   		 				<!-- Begin Commento widget code -->
                                 		<script defer src="https://cdn.commento.io/js/commento.js" async></script>
                                 		<div id="commento"></div>
                                 		<!-- End Commento widget code -->
   					</div>
-  				<button class="popout-window-close-button">Close</button>
-				</div>
+  					<button class="popup-window-close-button">Close</button>
+				    </div>
+				    
                                 <div class="gototop">
                                     <a href="#pagetop"><span class="fa fa-angle-double-up"></span></a>
                                 </div>
@@ -576,21 +576,22 @@
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 
 <script>
-  const popoutWindow = document.querySelector('.popout-window');
-  const popoutLink = document.querySelector('.popout-link');
-  const closeButton = document.querySelector('.popout-window-close-button');
+  const popupWindow = document.querySelector('.popup-window');
+  const popupLink = document.querySelector('.popup-link');
+  const closeButton = document.querySelector('.popup-window-close-button');
 
-  popoutLink.addEventListener('click', () => {
-    popoutWindow.style.display = 'block';
+  popupLink.addEventListener('click', () => {
+    popupWindow.style.display = 'block';
+    popupWindow.style.position = 'fixed';
+    popupWindow.style.zIndex = '1';
   });
   
   closeButton.addEventListener('click', () => {
-    popoutWindow.style.display = 'none';
+    popupWindow.style.display = 'none';
 	  return false;
   });
 </script>
-
-
+	
 </body>
 
 </html>
