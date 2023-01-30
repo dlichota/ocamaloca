@@ -146,11 +146,7 @@
                                     <br />Tortola, British Virgin Islands
                                 </h2>
                                 <hr>
-                                <div class="gold">
-                                    <img src="images/gold-seal-certified-property.jpg" alt="gold seal" />
-                                    <br />
-                                    GOLD SEAL CERTIFIED
-                                </div>
+                                
                                 <div class="nav">
                                     <h3>
                                         <a href="#calendar">Calendar </a> | <a href="#map"> Location </a> | <a href="#photos">Photos</a> | <a href="#goldseal"> Gold Seal</a>
@@ -165,11 +161,16 @@
                                 </blockquote>
                                 <span id="wiki">(Wikipedia)</span>
                                 <br />
-                                <h4 class="review">Please Leave a Comment Below</h4>
-                                <!-- Begin Commento widget code -->
-                                <script defer src="https://cdn.commento.io/js/commento.js" async></script>
-                                <div id="commento"></div>
-                                <!-- End Commento widget code -->
+				<div class="popout-window">
+  					<div class="popout-window-content">
+    						<h4 class="review">Please Leave a Comment Below</h4>
+                                		<!-- Begin Commento widget code -->
+                                		<script defer src="https://cdn.commento.io/js/commento.js" async></script>
+                                		<div id="commento"></div>
+                                		<!-- End Commento widget code -->
+  					</div>
+  				<button class="popout-window-close-button">Close</button>
+				</div>
                             </div>
                         </div>
 
@@ -574,6 +575,14 @@
     </script>
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 
+<script>
+  const popoutWindow = document.querySelector('.popout-window');
+  const closeButton = document.querySelector('.popout-window-close-button');
+
+  closeButton.addEventListener('click', () => {
+    popoutWindow.style.display = 'none';
+  });
+</script>
 
 
 </body>
