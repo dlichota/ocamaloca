@@ -568,17 +568,15 @@
 
 <script>
   const popupWindow = document.querySelector('.popup-window');
-  const popupLink = document.querySelector('.popup-link');
-  const closeButton = document.querySelector('.popup-window-close-button');
+const popupLink = document.querySelector('.popup-link');
+const closeButton = document.querySelector('.popup-window-close-button');
 
-  popupLink.addEventListener('click', () => {
-    popupWindow.style.display = 'block';
-    popupWindow.style.position = 'fixed';
-    popupWindow.style.zIndex = '1';
-  });
-  
-  closeButton.addEventListener('click', () => {
-    popupWindow.style.display = 'none';
+popupLink.addEventListener('click', () => {
+  popupWindow.style.display = 'block';
+});
+
+closeButton.addEventListener('click', () => {
+  popupWindow.style.display = 'none';
 	  return false;
   });
 </script>
