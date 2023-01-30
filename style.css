@@ -2810,3 +2810,26 @@ h2 {
     background-color: #d95460;
 
 }
+
+.popup-window {
+  position: fixed;
+  display: none;
+  width: 500px;
+  height: 400px;
+  background-color: #fff;
+  border: 1px solid #999;
+  z-index: 1;
+}
+
+.popup-window-content {
+  padding: 20px;
+}
+
+.popup-window-close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  background-color: #ccc;
+  border: 1px solid #999;
+}
