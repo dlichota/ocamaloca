@@ -160,17 +160,6 @@
                                     An Oca Maloca is an ancestral long house used by indigenous people of the Amazon.
                                 </blockquote>
                                 <span id="wiki">(Wikipedia)</span>
-                                <br />
-				<div class="popout-window">
-  					<div class="popout-window-content">
-    						<h4 class="review">Please Leave a Comment Below</h4>
-                                		<!-- Begin Commento widget code -->
-                                		<script defer src="https://cdn.commento.io/js/commento.js" async></script>
-                                		<div id="commento"></div>
-                                		<!-- End Commento widget code -->
-  					</div>
-  				<button class="popout-window-close-button">Close</button>
-				</div>
                             </div>
                         </div>
 
@@ -206,6 +195,18 @@
                                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                                     </p>
                                 </form>
+				<br />
+				<a href="#" class="popout-link">Leave a Comment</a>
+				<div class="popout-window">
+  					<div class="popout-window-content">
+    						<h4 class="review">Please Leave a Comment Below</h4>
+                                		<!-- Begin Commento widget code -->
+                                		<script defer src="https://cdn.commento.io/js/commento.js" async></script>
+                                		<div id="commento"></div>
+                                		<!-- End Commento widget code -->
+  					</div>
+  				<button class="popout-window-close-button">Close</button>
+				</div>
                                 <div class="gototop">
                                     <a href="#pagetop"><span class="fa fa-angle-double-up"></span></a>
                                 </div>
@@ -576,12 +577,17 @@
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 
 <script>
-	const popoutWindow = document.querySelector('.popout-window');
-const popoutLink = document.querySelector('.popout-link');
+  const popoutWindow = document.querySelector('.popout-window');
+  const popoutLink = document.querySelector('.popout-link');
+  const closeButton = document.querySelector('.popout-window-close-button');
 
-popoutLink.addEventListener('click', () => {
-  popoutWindow.style.display = 'block';
-});
+  popoutLink.addEventListener('click', () => {
+    popoutWindow.style.display = 'block';
+  });
+  
+  closeButton.addEventListener('click', () => {
+    popoutWindow.style.display = 'none';
+  });
 </script>
 
 
