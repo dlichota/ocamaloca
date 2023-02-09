@@ -197,12 +197,25 @@
                                 </form>
                             </div>
                             <!-- .request-form -->
-				<div class="commentbox"></div>
-                        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-                        <script>
-                            commentBox('5699438454505472-proj')
+                            <div id="popup">
+                               <div class="popup-container">
+                                  <div class="popup-header">
+                                     <h2>Popup Window</h2>
+                                  </div>
+                                  <div class="popup-body">
+                                    <div class="commentbox"></div>
+                                        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+                                            <script>
+                                                commentBox('5699438454505472-proj')
 
-                        </script>
+                                            </script>
+                                  </div>
+                                  <div class="popup-footer">
+                                     <button type="submit">Submit</button>
+                                  </div>
+                               </div>
+                            </div>
+				
                         </div>
 			    
                         <!-- .col-md-5 -->
@@ -564,18 +577,33 @@
     <script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
 
 <script>
-  const popupWindow = document.querySelector('.popup-window');
-const popupLink = document.querySelector('.popup-link');
-const closeButton = document.querySelector('.popup-window-close-button');
+    // Get the modal
+    var modal = document.getElementById('popup');
 
-popupLink.addEventListener('click', () => {
-  popupWindow.style.display = 'block';
-});
+    // Get the <span> element that closes the modal
+    var closeBtn = document.getElementsByClassName("close")[0];
 
-closeButton.addEventListener('click', () => {
-  popupWindow.style.display = 'none';
-	  return false;
-  });
+    // Open the modal
+    function openPopup() {
+        modal.style.display = "block";
+    }
+
+    // Close the modal
+    function closePopup() {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    closeBtn.onclick = function() {
+        closePopup();
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            closePopup();
+        }
+    }
 </script>
 	
 </body>
