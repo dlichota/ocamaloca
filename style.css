@@ -2794,8 +2794,8 @@ h2 {
 }
 
 .social-links a.whatsapp {
-    background-color: ##FEFEFE;
-    background: url(whatsapp.png) no-repeat;
+    background-color: #FEFEFE;
+    font-size: 3rem;
 }
 
 .social-links a.whatsapp:hover {
