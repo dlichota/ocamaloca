@@ -2843,7 +2843,6 @@ h2 {
   float: right;
   font-size: 28px;
   font-weight: bold;
-  padding-bottom: 2rem;
 }
 
 .close:hover,
@@ -2860,4 +2859,8 @@ h2 {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+#myBtn {
+    padding-bottom: 5rem;
 }
