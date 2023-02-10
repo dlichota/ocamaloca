@@ -2746,7 +2746,7 @@ h2 {
 
 .site-footer .copy {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 
 .widget .widget-title {
@@ -2843,6 +2843,7 @@ h2 {
   float: right;
   font-size: 28px;
   font-weight: bold;
+  padding-bottom: 2rem;
 }
 
 .close:hover,
