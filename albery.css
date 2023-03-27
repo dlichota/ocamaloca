@@ -44,7 +44,7 @@
 }
 .move-left a:hover,
 .move-right a:hover {
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 1);
 }
 .move-left a {
     border-right: 34px solid rgba(255, 255, 255, 0.5);
